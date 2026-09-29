@@ -1,0 +1,304 @@
+type": "imageUpload",
+      "position": {
+        "x": 18953.242798579853,
+        "y": 659.0763838705695
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 4.14.54 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 814,
+        "mediaHeight": 1032,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Buffalo"
+      },
+      "width": 320,
+      "height": 479,
+      "style": {
+        "width": 320,
+        "height": 479
+      }
+    },
+    {
+      "id": "imageUpload-BjBBXp8fnjaBK3KEOaMn0",
+      "type": "imageUpload",
+      "position": {
+        "x": 17840.90356826941,
+        "y": 1175.8091668980428
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "{{user-upload}}",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 608,
+        "mediaHeight": 1088,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 70"
+      },
+      "width": 320,
+      "height": 630,
+      "style": {
+        "width": 320,
+        "height": 630
+      }
+    },
+    {
+      "id": "textNode-yicMmiSN_mihfcYpBo4PY",
+      "type": "textNode",
+      "position": {
+        "x": 17945.754791537387,
+        "y": 859.150040857169
+      },
+      "data": {
+        "text": "Revise Image 70, the woman should be the MUM2 who is wearing a sandal not boot. please change her boot to sandals. \n\nMake the red package product LuemHung smaller size.\n\nPut some bamboo basket, and bamboo tray with herbs on the table for decoration. DONT BLOCK the red package product.\n\nKeep the color tone. \n\nRemove all AI noises and AI artifacts.",
+        "name": "Text Node 28"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-tcOJFA-wpaM8UUgkQPaA8",
+      "type": "imageGenerator",
+      "position": {
+        "x": 18342.978155754714,
+        "y": 1072.8576591248645
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image 29",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:35:14.162Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:39:45.618Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:43:05.834Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:57:18.316Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:00:40.008Z",
+            "runIndex": 4
+          }
+        ],
+        "activeRunIndex": 4,
+        "mediaWidth": 608,
+        "mediaHeight": 1088
+      },
+      "width": 320,
+      "height": 658,
+      "style": {
+        "width": 320,
+        "height": 658
+      }
+    },
+    {
+      "id": "imageUpload-knKr-INLdPHeDWX95iQxS",
+      "type": "imageUpload",
+      "position": {
+        "x": 17431.24774033376,
+        "y": 957.3539818633247
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 4.28.47 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 640,
+        "mediaHeight": 690,
+        "mediaUrl": "{{user-upload}}",
+        "name": "bamboo basket"
+      },
+      "width": 320,
+      "height": 424,
+      "style": {
+        "width": 320,
+        "height": 424
+      }
+    },
+    {
+      "id": "imageUpload-YW_T8UGkyNy-A3WrVS4vy",
+      "type": "imageUpload",
+      "position": {
+        "x": 17078.692214613555,
+        "y": 1268.7648827958044
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 4.40.30 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 348,
+        "mediaHeight": 398,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 001"
+      },
+      "width": 320,
+      "height": 443,
+      "style": {
+        "width": 320,
+        "height": 443
+      }
+    },
+    {
+      "id": "textNode-uBNINRGSra-LrEINVd3bb",
+      "type": "textNode",
+      "position": {
+        "x": 22056.669926762916,
+        "y": -2578.315553301277
+      },
+      "data": {
+        "text": "Create a photorealistic cinematic lifestyle advertising photograph set in a rural Southeast Asian rice-farming village during warm late-afternoon golden-hour sunlight.\nA strong, muscular Southeast Asian male rice farmer son is working energetically in a flooded rice field. He is shirtless, covered with realistic traces of wet mud and sweat, wearing loose dark traditional farmer shorts with subtle woven texture, a red patterned cloth tied around his waist, and a large weathered woven straw hat.\n\nHe is standing in the middle of the rice paddy with his legs spread wide in a powerful, dynamic stance. He holds a large round woven bamboo rice-winnowing tray horizontally in front of his body with both hands. The tray is filled with white rice grains. He is vigorously tossing and winnowing the rice upward, creating a dramatic cloud of individual rice grains flying through the air above and around the tray. Some grains catch the sunlight and sparkle naturally.\nHis facial expression is intense, energetic and slightly humorous, showing physical effort and urgency, with strong expressive eyes, furrowed brows and a determined expression. His body language should communicate hard physical labor and fast-paced movement.\n\nVisual style: a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, medium depth of field around f/3.5–f/5.6, give head room, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.",
+        "name": "Text Node 29"
+      },
+      "width": 699,
+      "height": 613,
+      "style": {
+        "width": 699,
+        "height": 613
+      }
+    },
+    {
+      "id": "textNode-9PfJbxvtBdx0NZPy8i-pN",
+      "type": "textNode",
+      "position": {
+        "x": 18777.545904789393,
+        "y": 1435.9665900656123
+      },
+      "data": {
+        "text": "Revise Image 29, the woman 's outfit to MUM2's outfit, especially follow the inner top and the shorts in MUM2.\n\nRemove all AI noises and AI artifacts.",
+        "name": "Text Node 30",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-0sBSBDfGh1uIDV5GaajKt",
+      "type": "imageGenerator",
+      "position": {
+        "x": 19212.36127079614,
+        "y": 1272.3492429362095
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 30",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:05:28.544Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:07:35.701Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:15:59.992Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:18:17.906Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWidth": 608,
+        "mediaHeight": 1088
+      },
+      "width": 320,
+      "height": 658,
+      "style": {
+        "width": 320,
+        "height": 658
+      }
+    },
+    {
+      "id": "textNode-HUIDVo_DKh_u5OnU5B1oM",
+      "type": "textNode",
+      "position": {
+        "x": 15739.245985741598,
+        "y": 1825.6749621313538
+      },
+      "data": {
+        "text": "Create a photorealistic premium Southeast Asian food advertising photograph in a cinematic 9:16 composition.\nA warm, humorous moment between two rural Southeast Asian characters in a traditional rice-farming village at golden hour.\nOn the left side, an older Southeast Asian woman MUM2 sits on a rustic bamboo platform. She wears a slightly weathered white motorcycle helmet with green stripes, a bright green long-sleeve jacket, a colorful patterned blouse underneath, a checked woven towel draped over one shoulder, and colorful traditional patterned trousers. She has a warm, friendly smile and natural facial wrinkles and skin texture.\nThe woman is leaning slightly toward the man and presenting a red LuemHung rice package toward him with both hands. The product is held upright, front-facing and prominently visible near the center of the frame. The package should be clearly readable and recognizable.\nOn the right side, a strong, muscular Southeast Asian male rice farmer son sit next to her reacts dramatically to the product. He is shirtless, covered with subtle realistic traces of mud and sweat, wearing loose dark traditional farmer shorts, a red patterned cloth tied around his waist, and a large woven straw hat. He leans backward slightly in exaggerated surprise, eyes wide, eyebrows raised, mouth open in astonishment, with both hands lifted defensively as if he has just been unexpectedly amazed by the product. His expression should feel humorous and energetic rather than frightening.\n\nProduct: Use the uploaded LuemHung rice package as the exact product reference. Keep the exact packaging design, red-and-cream color scheme, gold decorative borders, Thai typography, logo, illustrations and package proportions, which is small as a hand palm. Do not redesign, reinterpret, simplify or substitute the product. The package must look like the exact same physical product photographed in Image 001 comparing with the hands. Keep the front of the package fully visible and unobstructed. Some rice sits on the package mouth naturally. \nThe package sits visually between the two characters, creating a clear interaction: woman MUM2 proudly presenting the rice product → man son reacting with exaggerated surprise.\n\nEnvironment: rustic bamboo farming shelter and platform, tropical vegetation and palm trees, warm countryside atmosphere. Traditional bamboo structures and rural objects frame the scene naturally. Include subtle cooking equipment and woven baskets around the edges of the frame.\n\nVisual style: a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, give head room, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.",
+        "name": "Text Node 31"
+      },
+      "width": 960,
+      "height": 960,
+      "style": {
+        "width": 960,
+        "height": 960
+      }
+    },
+    {
+      "id": "imageGenerator-p33nFApU3-Jhr_OhnR5Rs",
+      "type": "imageGenerator",
+      "position": {
+        "x": 17500.017388983306,
+        "y": 2136.1098378259817
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 31",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:12:57.287Z",
+         
