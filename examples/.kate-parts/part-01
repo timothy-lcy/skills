@@ -1,0 +1,465 @@
+345895146247,
+        "y": 1044.6467768230689
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "farmson",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "landscape_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T04:42:23.267Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T04:56:06.164Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T05:00:35.202Z",
+            "runIndex": 2
+          }
+        ],
+        "activeRunIndex": 2,
+        "mediaWidth": 1448,
+        "mediaHeight": 1086
+      },
+      "width": 320,
+      "height": 357,
+      "style": {
+        "width": 320,
+        "height": 357
+      }
+    },
+    {
+      "id": "textNode-7JyYi4HL9_iJR_AD06lUZ",
+      "type": "textNode",
+      "position": {
+        "x": 617.3758242660107,
+        "y": 2184.4914450687347
+      },
+      "data": {
+        "text": "A realistic studio professional picture of a natural masculine man full body front shot and full body side shot. \n\nThe man is the Son with beard, whose outfit is nude top, showing his muscle and abs. Wearing short pants and a ling towel tied on his waist like son-clo, the pants and towel are covered with some dirt (reference to dirty), and also a farmer hat (refernce to hat2 and hat1). He is sweating, and with some dirt on his strong feet. He is not wearing shoes. \n\nBackground be studio ivory white ",
+        "name": "Text Node 3",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-7xjMyoLcsjkeZ8znGn0Ng",
+      "type": "imageGenerator",
+      "position": {
+        "x": 6193.8709211724745,
+        "y": 1399.0484738088505
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "farmson2",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "landscape_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T05:37:41.279Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T05:40:31.040Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 1448,
+        "mediaHeight": 1086
+      },
+      "width": 320,
+      "height": 357,
+      "style": {
+        "width": 320,
+        "height": 357
+      }
+    },
+    {
+      "id": "textNode-pJPIXKRCrk3Jg47H_-taz",
+      "type": "textNode",
+      "position": {
+        "x": 2676.385098667517,
+        "y": 3346.300628877358
+      },
+      "data": {
+        "text": "A realistic medium-shot of the farmson holding a paper phone and showing a super shocked face (reference to 009). \n\nBackground is a natural farm land. \n\nThe remove all the content on the paper phone, make it an empty paper, keep the strings and rode strap. \n\nMake more headroom.\n\nMatch the visual style of the reference images 021: natural summer lifestyle photography, warm nostalgic cinematic mood, bright sunlit outdoor atmosphere, soft golden sunlight, gentle directional sunlight with subtle highlights and natural soft shadows, slightly hazy summer air, warm skin tones, rich fresh grass greens, soft sky blue, warm beige and earthy tones, balanced natural colors, slightly muted but vibrant color palette, soft film-like contrast, subtle analog film grain, delicate highlight roll-off, slightly lifted shadows, realistic skin texture, natural imperfections, soft depth of field, gentle atmospheric haze, dreamy yet realistic, youthful and carefree summer feeling, candid editorial photography, premium commercial campaign aesthetic, authentic Hong Kong/Asian lifestyle photography. Avoid harsh HDR, overly saturated colors, deep crushed blacks, artificial studio lighting, cold tones, excessive sharpness, plastic skin, heavy color grading, or dramatic cinematic darkness.",
+        "name": "Text Node 4",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-J-Ib6caVoDKl6Y4BN8jGx",
+      "type": "imageUpload",
+      "position": {
+        "x": 2858.054613271489,
+        "y": 1775.315411501654
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 1.49.33 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 842,
+        "mediaHeight": 1372,
+        "mediaUrl": "{{user-upload}}",
+        "name": "order page"
+      },
+      "width": 320,
+      "height": 584,
+      "style": {
+        "width": 320,
+        "height": 584
+      }
+    },
+    {
+      "id": "imageUpload--QPejv9P-8uINKYP7ARRk",
+      "type": "imageUpload",
+      "position": {
+        "x": 5263.1668041389,
+        "y": 3671.5864961131892
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 1.43.43 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 582,
+        "mediaHeight": 818,
+        "mediaUrl": "{{user-upload}}",
+        "name": "TG1"
+      },
+      "width": 320,
+      "height": 519,
+      "style": {
+        "width": 320,
+        "height": 519
+      }
+    },
+    {
+      "id": "imageUpload-89Xs-ZEuZtPZAqHLueUeQ",
+      "type": "imageUpload",
+      "position": {
+        "x": 3203.223350147461,
+        "y": 2095.383124238605
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 1.43.13 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 380,
+        "mediaHeight": 764,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 2"
+      },
+      "width": 320,
+      "height": 694,
+      "style": {
+        "width": 320,
+        "height": 694
+      }
+    },
+    {
+      "id": "textNode-mBSVLIIZF4V98ZmR1R5Ua",
+      "type": "textNode",
+      "position": {
+        "x": 3645.0905922816182,
+        "y": 1998.0293239030557
+      },
+      "data": {
+        "text": "A realistic studio professional photo a phone-shaped cardboard showing an Order details content on the cardboard. The cardboard is wrapped by a colorful strings protecting the edge and Rope Wrist Strap.\n\nThe content reference to the order page. Remove the black brush. Change the text ' Order details' to Telegram', change order from to 'BANGKOK', and Delivered to ' KHUN SOMCHAI' . For the order items to 1x Boiled vegetables, 1x Boiled eggs, 1x Chicken breast with thai dollar baht to mark the price of each item. All Rs dollar size change to baht. Remove GST. and (incl. GST) . Remove GOOD NEWS YOU'VE WON THE GRAND PRIZE STOP",
+        "name": "Text Node 5",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-rn1G-DQk-j834RT5TiqgN",
+      "type": "imageGenerator",
+      "position": {
+        "x": 2386.53742770196,
+        "y": 1907.562071125067
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "paper phone",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T06:00:15.350Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T06:09:03.701Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T06:12:54.751Z",
+            "runIndex": 2
+          }
+        ],
+        "activeRunIndex": 2,
+        "mediaWidth": 940,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 655,
+      "style": {
+        "width": 320,
+        "height": 655
+      }
+    },
+    {
+      "id": "imageGenerator--vSZMlvlNPdZYshEkdpgb",
+      "type": "imageGenerator",
+      "position": {
+        "x": 3167.415567033776,
+        "y": 3009.3306617652397
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 6",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T06:27:53.698Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T06:36:48.000Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 752,
+        "mediaHeight": 1344
+      },
+      "width": 320,
+      "height": 657,
+      "style": {
+        "width": 320,
+        "height": 657
+      }
+    },
+    {
+      "id": "imageUpload-ipAnoM6D6jex7RxaLdj6r",
+      "type": "imageUpload",
+      "position": {
+        "x": 11112.765239313114,
+        "y": 2094.9268650487825
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 2.16.35 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 846,
+        "mediaHeight": 1312,
+        "mediaUrl": "{{user-upload}}",
+        "name": "021"
+      },
+      "width": 320,
+      "height": 561,
+      "style": {
+        "width": 320,
+        "height": 561
+      }
+    },
+    {
+      "id": "imageUpload-Kna-avXJj6g9oecSGY1vq",
+      "type": "imageUpload",
+      "position": {
+        "x": 2403.486874697614,
+        "y": 3011.7491179912367
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 2.14.19 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 2822,
+        "mediaHeight": 1264,
+        "mediaUrl": "{{user-upload}}",
+        "name": "009"
+      },
+      "width": 320,
+      "height": 241,
+      "style": {
+        "width": 320,
+        "height": 241
+      }
+    },
+    {
+      "id": "imageUpload-CH3EnGJEjVzK1_GeSX5iR",
+      "type": "imageUpload",
+      "position": {
+        "x": 3737.5191225296444,
+        "y": 2979.1363713161454
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "{{user-upload}}",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 752,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 3"
+      },
+      "width": 320,
+      "height": 629,
+      "style": {
+        "width": 320,
+        "height": 629
+      }
+    },
+    {
+      "id": "textNode-ELZPJJi-bTMGq0ZZYIo8C",
+      "type": "textNode",
+      "position": {
+        "x": 3733.357535650374,
+        "y": 2716.228552027411
+      },
+      "data": {
+        "text": "his hands are too big, make his hands smaller in reasonable size\n\nkeep the same visual style",
+        "name": "Text Node 6",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-h3TJIA3QfxNuakawUvokU",
+      "type": "imageGenerator",
+      "position": {
+        "x": 4305.206891903737,
+        "y": 2815.9570591901665
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 7",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T06:45:49.174Z",
+            "runIndex": 0
+          }
+        ],
+        "activeRunIndex": 0,
+        "mediaWidth": 768,
+        "mediaHeight": 1344
+      },
+      "width": 320,
+      "height": 647,
+      "style": {
+        "width": 320,
+        "height": 647
+      }
+    },
+    {
+      "id": "imageUpload-wcEpGl_LaNf8fjcqKr26i",
+      "type": "imageUpload",
+      "position": {
+        "x": 5299.347535783721,
+        "y": 2503.8029052142524
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 2.13.22 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 4072,
+        "mediaHeight": 2280,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Ref223"
+      },
+      "width": 320,
+      "height": 273,
+      "style": {
+        "width": 320,
+        "height": 273
+      }
+    },
+    {
+      "id": "textNode-ay_2wnac3fXutpcM0LOZb",
+      "type": "textNode",
+      "position": {
+        "x": 4944.031682037898,
+        "y": 2323.5523124457945
+      },
+      "data": {
+        "text": "A realistic 45 degree side-angle wide-shot of the farmson doing work out in the middle of a rice farm field under the blazing sun. He is doing a bench press made entirely of hay bales, as the heat pours down around him. A simple rack made by bamboo set behind the hay bales . \nPut the man in the middle center of the frame. \n\nBackground reference to the realistic pictures of
