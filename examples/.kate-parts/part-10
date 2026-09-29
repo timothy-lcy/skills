@@ -1,0 +1,337 @@
+ Fast energetic camera movement but **keep both characters and the purple bag clearly visible**, then rotate to the over-the-shoulder shot. Realistic human motion, cinematic lighting, detailed skin and fabric, natural Thai rural environment.\n\nTiming:\n0–2 sec: the man snatches the large purple bag aggressively from the woman’s hands\n2–4 sec: rapidly digging through the contents in an exaggerated, chaotic way\n4–6 sec: the camera rotate to the over-the-shoulder shot while the man throw away the purple bag\n6-8 sec: the man shouting furiously with realistic lip-sync matching the Thai spoken line \"เดี๋ยว! ข้าวอยู่ไหนน่ะ?!\" (Wait! Where is the rice?!).\n8-9 sec: hold on his angry face for a second\n\n**Important:** Preserve the original character appearances, clothing, purple bag design, rice-field setting, and overall composition from the reference image. Do not change the bag color. **No dialogue, no subtitles, no text, no music, no scene cuts.**\n\n",
+        "name": "Video Generator 1",
+        "generateAudio": false,
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T03:28:06.920Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T03:46:01.290Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:02:06.373Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:21:31.411Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:24:41.485Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:30:59.524Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:39:54.453Z",
+            "runIndex": 6
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:44:06.985Z",
+            "runIndex": 7
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:47:39.208Z",
+            "runIndex": 8
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T06:04:02.407Z",
+            "runIndex": 9
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T06:20:53.019Z",
+            "runIndex": 10
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T06:37:04.770Z",
+            "runIndex": 11
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T06:42:34.228Z",
+            "runIndex": 12
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T06:49:10.038Z",
+            "runIndex": 13
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T09:14:30.887Z",
+            "runIndex": 14
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T09:26:59.028Z",
+            "runIndex": 15
+          }
+        ],
+        "activeRunIndex": 15,
+        "mediaWidth": 720,
+        "mediaHeight": 1280
+      },
+      "width": 859,
+      "height": 960,
+      "style": {
+        "width": 859,
+        "height": 960
+      }
+    },
+    {
+      "id": "imageUpload-SskUhz_Zr-2v_bJ6ukIS6",
+      "type": "imageUpload",
+      "position": {
+        "x": 2982.507817629279,
+        "y": 6416.009281934132
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S2_2.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 940,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 15"
+      },
+      "width": 320,
+      "height": 627,
+      "style": {
+        "width": 320,
+        "height": 627
+      }
+    },
+    {
+      "id": "videoGenerator-9OXiaPpW4DBsbZpASU1h2",
+      "type": "videoGenerator",
+      "position": {
+        "x": 3482.758905378195,
+        "y": 6345.398292709856
+      },
+      "data": {
+        "model": "kling-v3",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": null,
+        "duration": "5",
+        "aspectRatio": "",
+        "resolution": "",
+        "prompt": "Use the uploaded image as the exact visual reference for the character, close-up composition, appearance, clothing, straw hat, sweat, bamboo bar and environment. Maintain continuity with the previous workout shot.\n\nStart with the man **facing straight upward in his original workout position, NOT looking sideways**. His head and eyes must initially face the direction of the workout, as if he is still concentrating on lifting the heavy hay bales above him.\n\nHis expression is extremely intense and physically strained: brows tightly furrowed, eyes focused upward, jaw clenched, heavy breathing, tense facial muscles, sweat glistening across his face and body. He continues exerting himself for the first few moments.\n\nThen he suddenly **notices something beside him**.\n\nThai TV Commercial Performance\nMake the reaction humorously dramatic and slightly exaggerated, like a classic Thai TV commercial. The comedy comes from the contrast:\nEXTREMELY SERIOUS WORKOUT → sudden realization → dramatic head turn → curious reaction\n(starting with Image Generator 35, end with Image Upload 15)\n\nMake the reaction **humorously dramatic in a Thai TV commercial style**. The performance should feel like: **serious intense workout → exaggerated dramatic head turn → curious reaction. His eyes widen slightly and his eyebrows lift, creating a funny “What is that?” reaction. Keep the acting exaggerated but photorealistic; no cartoon expressions or animation.\n\n**CAMERA: completely locked-off and static.** No zoom, no push-in, no pull-back, no pan, no tilt, no tracking, no orbit, no handheld movement, no reframing. Keep exactly the same close-up framing throughout. **Only the man's eyes, facial expression and head move.**\n\n**Timing:**\n0–2 sec: intense workout expression, facing original direction.\n2–3 sec:  then dramatic head turn toward the frame right, eyes looks at frame right\n3–5 sec: hold the final sideways-looking reaction.\n\nNo cuts, no dialogue, no additional people. Photorealistic live-action, cinematic Thai commercial style, humorous, exaggerated acting, realistic sweat, natural tropical sunlight and believable movement.\n\n",
+        "name": "Video Generator 2",
+        "generateAudio": false,
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T03:53:52.170Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:08:50.272Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:17:33.887Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:29:10.071Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:32:02.954Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:07:11.456Z",
+            "runIndex": 5
+          }
+        ],
+        "activeRunIndex": 5,
+        "mediaWidth": 720,
+        "mediaHeight": 1280
+      },
+      "width": 960,
+      "height": 960,
+      "style": {
+        "width": 960,
+        "height": 960
+      }
+    },
+    {
+      "id": "imageGenerator-hYjwXBeoPCMqcpY_kBcDx",
+      "type": "imageGenerator",
+      "position": {
+        "x": 2310.020908184856,
+        "y": 6453.127298470874
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 35",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:22:03.341Z",
+            "runIndex": 0
+          }
+        ],
+        "activeRunIndex": 0,
+        "mediaWidth": 940,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 655,
+      "style": {
+        "width": 320,
+        "height": 655
+      }
+    },
+    {
+      "id": "textNode-sdVlkm01tvvprvTB_ixvE",
+      "type": "textNode",
+      "position": {
+        "x": 2307.9056419936214,
+        "y": 6159.105297889179
+      },
+      "data": {
+        "text": "Change his facial expression to be extremely intense and physically strained: brows tightly furrowed, eyes focused upward, jaw clenched, heavy breathing, tense facial muscles",
+        "name": "Text Node 35"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-gfdpdBFg1rduP2UTDpUYx",
+      "type": "imageUpload",
+      "position": {
+        "x": 1437.064143328423,
+        "y": 4636.525721832566
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S3_colorgraded.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 768,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 16"
+      },
+      "width": 320,
+      "height": 619,
+      "style": {
+        "width": 320,
+        "height": 619
+      }
+    },
+    {
+      "id": "videoGenerator-ekH_3WMDtjzqSoEcDpdfT",
+      "type": "videoGenerator",
+      "position": {
+        "x": 2000.263460694065,
+        "y": 4887.035666058094
+      },
+      "data": {
+        "model": "kling-v3",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": null,
+        "duration": "5",
+        "aspectRatio": "",
+        "resolution": "",
+        "prompt": "Use the uploaded image as the exact visual reference for the woman, buffalo, clothing, helmet, backpack, rural Thai environment and composition.\n\nThe woman is **urgently riding the buffalo down the dirt road**, rushing to make an important delivery. She grips the rope tightly with both hands, leans forward and repeatedly urges the buffalo to go faster. Her expression is **extremely anxious, focused and determined**, as if she is racing against time.\n\nThe buffalo runs **powerfully and quickly toward the camera**, with realistic animal movement and believable weight. Its body bounces naturally with every stride, while its legs, horns and head move organically.\n\nWith every hoof impact, **large amounts of realistic dry dust, dirt and small gravel are kicked into the air**. Dust and dirt splash outward from the hooves and form a trailing cloud behind the buffalo. Individual particles catch the sunlight and gradually disperse naturally. Make the dust physics realistic and dynamic.\n\n**Thai TV commercial comedy style:** Present the scene like an epic, high-stakes action sequence, while the situation is absurdly funny. The woman takes the delivery extremely seriously, acting dramatically urgent, while the buffalo charges forward like a heroic racehorse. Exaggerate her facial expressions and physical reactions slightly, but keep everything **photorealistic and believable**. The humor comes from the dramatic presentation and situation, not cartoon effects.\n\n**Camera:** Dynamic cinematic tracking shot moving backward in front of the running buffalo, keeping the woman and buffalo centered. Strong sense of forward momentum with subtle natural camera shake from the running. Occasional slightly low-angle perspective to make the buffalo look dramatically powerful.\n\nBright tropical daylight, warm sunlight, rural Thai rice fields, distant green mountains, realistic atmospheric haze and cinematic dust.\n\n**Photorealistic live action, energetic Thai commercial style, exaggerated comedy, realistic animal movement and dust physics. No cartoon animation, no additional people, no cuts, no unrealistic anatomy.**\n",
+        "name": "Video Generator 3",
+        "generateAudio": true,
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:34:05.900Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T04:44:20.886Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 724,
+        "mediaHeight": 1268
+      },
+      "width": 859,
+      "height": 960,
+      "style": {
+        "width": 859,
+        "height": 960
+      }
+    },
+    {
+      "id": "textNode-5NZa6vTMI-HLcjAr31ca3",
+      "type": "textNode",
+      "position": {
+        "x": 949.2652180082666,
+        "y": 5337.0273263380805
+      },
+      "data": {
+        "text": "Revise the Image 72. Make the man's surprised face more exaggerated and dramatic (reference to Image 40) but still look close to the original face in Image 72, like Thai TV style. \n\nCamera: Wide shot, put the man in the middle of the frame.\n\nKeep the environment the same in Image 72. Keep the red pack product exactly the same. \n\nImage style: film syle, Eric Rohmer film style, brighter sunlight",
+        "name": "Text Node 38",
+        "errorMessage": null
+      },
+      "width": 32
