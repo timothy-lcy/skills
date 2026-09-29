@@ -1,0 +1,434 @@
+tic Hong Kong/Asian lifestyle photography. Avoid harsh HDR, overly saturated colors, deep crushed blacks, artificial studio lighting, cold tones, excessive sharpness, plastic skin, heavy color grading, or dramatic cinematic darkness. Full-frame 50mm prime lens, f/3.2–f/4, environmental lifestyle photography, subject in crisp focus, moderate depth of field, foreground grass softly out of focus, background landscape gently blurred but still recognizable, natural perspective and subtle background compression.",
+        "name": "Text Node 15",
+        "errorMessage": null
+      },
+      "width": 559,
+      "height": 561,
+      "style": {
+        "width": 559,
+        "height": 561
+      }
+    },
+    {
+      "id": "imageGenerator-6ikY9JHZXGR7X5MuX5Hz6",
+      "type": "imageGenerator",
+      "position": {
+        "x": 6705.619231347714,
+        "y": 4191.786669766826
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 16",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:14:34.258Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:22:23.567Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:24:38.665Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:27:12.399Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "imageUpload-sNlFLVu-0bC8eMgN09JrR",
+      "type": "imageUpload",
+      "position": {
+        "x": 5190.392453330807,
+        "y": 4870.262925058882
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S5_3.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image9"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "imageUpload-nyhSpMkJmB943Czr18Vk6",
+      "type": "imageUpload",
+      "position": {
+        "x": 11113.05855331755,
+        "y": 1764.9552731050314
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 4.15.52 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 3092,
+        "mediaHeight": 2064,
+        "mediaUrl": "{{user-upload}}",
+        "name": "MV2"
+      },
+      "width": 320,
+      "height": 305,
+      "style": {
+        "width": 320,
+        "height": 305
+      }
+    },
+    {
+      "id": "imageGenerator-1K0ZEN9faJTB2c5F4GdkT",
+      "type": "imageGenerator",
+      "position": {
+        "x": 11115.907469605256,
+        "y": 368.24829823101646
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image 17",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:38:50.627Z",
+            "runIndex": 0
+          }
+        ],
+        "activeRunIndex": 0,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "textNode-5twkfAjm-WVmni3qPtOBn",
+      "type": "textNode",
+      "position": {
+        "x": 10290.406714068728,
+        "y": -144.56756348568405
+      },
+      "data": {
+        "text": "Image 13, the man is farmson, so put the Straw hat on his head.\n\nKeep other things the same, keep the color tone. Keep the visual style. \n\nRemove AI-noises and AI-artifacts. \n\nAvoid harsh HDR, overly saturated colors, deep crushed blacks, artificial studio lighting, cold tones, excessive sharpness, plastic skin, heavy color grading, or dramatic cinematic darkness. Full-frame 50mm prime lens, f/3.2–f/4, environmental lifestyle photography, subject in crisp focus, moderate depth of field, foreground grass softly out of focus, background landscape gently blurred but still recognizable, natural perspective and subtle background compression.",
+        "name": "Text Node 16"
+      },
+      "width": 611,
+      "height": 426,
+      "style": {
+        "width": 611,
+        "height": 426
+      }
+    },
+    {
+      "id": "imageGenerator-hMZKeW6TglxvwjU8CKjUW",
+      "type": "imageGenerator",
+      "position": {
+        "x": 12424.993095696585,
+        "y": 1045.4496964700188
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image117",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:49:03.097Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:51:35.965Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 940,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 655,
+      "style": {
+        "width": 320,
+        "height": 655
+      }
+    },
+    {
+      "id": "textNode-vwMM0JI0MbcMxpE0j8e0j",
+      "type": "textNode",
+      "position": {
+        "x": 13167.666320330685,
+        "y": -377.79024964780115
+      },
+      "data": {
+        "text": "Revise mum pictures, add a towel onher shoulder, remove the pink bag. \nkeep the same background in mum. ",
+        "name": "Text Node 17"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-ipGUFLdbtsgcnyT06qmAV",
+      "type": "imageUpload",
+      "position": {
+        "x": 13161.802057594285,
+        "y": 224.60445068862268
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 10.41.17 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 318,
+        "mediaHeight": 690,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 5"
+      },
+      "width": 320,
+      "height": 740,
+      "style": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "id": "imageUpload-RSkPuSx9VTDYn5rcluUif",
+      "type": "imageUpload",
+      "position": {
+        "x": 17573.80281524276,
+        "y": -844.9015122307176
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 11.40.17 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1258,
+        "mediaHeight": 1604,
+        "mediaUrl": "{{user-upload}}",
+        "name": "ProductImage"
+      },
+      "width": 320,
+      "height": 481,
+      "style": {
+        "width": 320,
+        "height": 481
+      }
+    },
+    {
+      "id": "imageGenerator-vlWMt_v_pMeHTLuykzgv4",
+      "type": "imageGenerator",
+      "position": {
+        "x": 13622.72012755698,
+        "y": 1292.9654680501008
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 19",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T02:54:36.407Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T02:56:47.710Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T02:58:52.284Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:02:12.442Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:06:26.684Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:13:36.483Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:23:42.937Z",
+            "runIndex": 6
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:57:52.567Z",
+            "runIndex": 7
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:31:46.710Z",
+            "runIndex": 8
+          }
+        ],
+        "activeRunIndex": 8,
+        "mediaWidth": 768,
+        "mediaHeight": 1024
+      },
+      "width": 320,
+      "height": 526,
+      "style": {
+        "width": 320,
+        "height": 526
+      }
+    },
+    {
+      "id": "textNode-Vi91RK47_8mRiovyYomtu",
+      "type": "textNode",
+      "position": {
+        "x": 12896.170829906907,
+        "y": 1155.0836474978191
+      },
+      "data": {
+        "text": "Re-render the image, change to a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, medium depth of field around f/3.5–f/5.6, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.\n\nKeep the characters, Keep the skin detail, Keep the same environment, same frame structure. \n\nRemove all AI-noise, AI-artifacts\n",
+        "name": "Text Node 18"
+      },
+      "width": 503,
+      "height": 496,
+      "style": {
+        "width": 503,
+        "height": 496
+      }
+    },
+    {
+      "id": "imageUpload-gCTQ8ieQRDuoIkfPMIt0Y",
+      "type": "imageUpload",
+      "position": {
+        "x": 13135.819227661697,
+        "y": 1717.8598725247673
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_1_Mum.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1024,
+        "mediaHeight": 1024,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 6"
+      },
+      "width": 320,
+      "height": 401,
+      "style": {
+        "width": 320,
+        "height": 401
+      }
+    },
+    {
+      "id": "imageUpload-o51XjFmtXMHHcHWaDL6bT",
+      "type": "imageUpload",
+      "position": {
+        "x": 15869.359238697396,
+        "y": 97.43163578411668
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "IMG_3348.JPG",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 4284,
+        "mediaHeight": 5712,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Size1"
+      },
+      "width": 320,
+      "height": 498,
+      "style": {
+        "width": 320,
+        "height": 498
+      }
+    },
+    {
+      "id": "textNode-ts9hdYu7-LgL9tQFGTHCi",
+      "type": "textNode",
+      "position": {
+        "x": 14644.427836845833,
+        "y": -131.63536241310106
+      },
+      "data": {
+        "text": "Create a photorealistic premium lifestyle advertising photograph set in a rural Southeast Asian countryside during warm late-afternoon sunlight. An older Southeast Asian woman mum2 sits at a rustic wooden table beside a rice field, wearing a slightly weathered white-and-green motorcycle helmet, a deep green long-sleeve shirt over a colorful patterned blouse, patterned traditional-style trousers, and a woven checked towel draped naturally over one shoulder. She has a warm, gentle, authentic smile and natural facial wrinkles and skin texture.\n\nShe is pouring steaming hot water from an old brushed-metal kettle into a red-and-cream packaged food bag product1 placed upright on the wooden table in front of her. Visible steam rises naturally from the pouring water and catches the sunlight. One hand holds the kettle while the other steadies the product package. The product package is clearly visible, upright, centered in the lower foreground, with realistic printed packaging, dec
