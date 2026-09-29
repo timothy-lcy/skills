@@ -1,0 +1,433 @@
+ rice field in 110,112.
+
+Match the visual style of the reference images 021 and 022: natural summer lifestyle photography, warm nostalgic cinematic mood, bright sunlit outdoor atmosphere, soft golden sunlight, gentle directional sunlight with subtle highlights and natural soft shadows, slightly hazy summer air, warm skin tones, rich fresh grass greens, soft sky blue, warm beige and earthy tones, balanced natural colors, slightly muted but vibrant color palette, soft film-like high contrast, subtle analog film grain, delicate highlight roll-off, slightly lifted shadows, realistic skin texture, natural imperfections, soft depth of field, gentle atmospheric haze, dreamy yet realistic, youthful and carefree summer feeling, candid editorial photography, premium commercial campaign aesthetic, authentic Hong Kong/Asian lifestyle photography. Avoid harsh HDR, overly saturated colors, deep crushed blacks, artificial studio lighting, cold tones, excessive sharpness, plastic skin, heavy color grading, or dramatic cinematic darkness. Full-frame 50mm prime lens, f/3.2–f/4, environmental lifestyle photography, subject in crisp focus, moderate depth of field, foreground grass softly out of focus, clear focus on the man, background landscape gently blurred but still recognizable, natural perspective and subtle background compression.",
+        "name": "Text Node 7",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-qEkzhHzLq1UD7rrULM1hI",
+      "type": "imageGenerator",
+      "position": {
+        "x": 6342.021446477469,
+        "y": 2288.424242815961
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 8",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:00:38.021Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:13:57.596Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:18:12.535Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:26:35.610Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:29:43.666Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:33:50.317Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:37:21.089Z",
+            "runIndex": 6
+          }
+        ],
+        "activeRunIndex": 6,
+        "mediaWidth": 752,
+        "mediaHeight": 1344
+      },
+      "width": 320,
+      "height": 657,
+      "style": {
+        "width": 320,
+        "height": 657
+      }
+    },
+    {
+      "id": "imageUpload-lz0eLDPCCHqz3PySwZjow",
+      "type": "imageUpload",
+      "position": {
+        "x": 8704.368958509174,
+        "y": 2926.432741402437
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 3.09.49 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1286,
+        "mediaHeight": 1892,
+        "mediaUrl": "{{user-upload}}",
+        "name": "rice field2"
+      },
+      "width": 320,
+      "height": 538,
+      "style": {
+        "width": 320,
+        "height": 538
+      }
+    },
+    {
+      "id": "imageUpload-6GcwlQoBKnxueMoD6-o7l",
+      "type": "imageUpload",
+      "position": {
+        "x": 20019.385674064,
+        "y": -811.4827102778798
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 3.09.33 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1040,
+        "mediaHeight": 1010,
+        "mediaUrl": "{{user-upload}}",
+        "name": "111"
+      },
+      "width": 320,
+      "height": 393,
+      "style": {
+        "width": 320,
+        "height": 393
+      }
+    },
+    {
+      "id": "imageUpload-Zvztwa4SuKW0LN38PMF0F",
+      "type": "imageUpload",
+      "position": {
+        "x": 19908.925786818723,
+        "y": -1316.7826291649603
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 3.09.21 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 580,
+        "mediaHeight": 696,
+        "mediaUrl": "{{user-upload}}",
+        "name": "110"
+      },
+      "width": 320,
+      "height": 459,
+      "style": {
+        "width": 320,
+        "height": 459
+      }
+    },
+    {
+      "id": "imageUpload-ZCiKBBHbVVrLqpO0sgrJT",
+      "type": "imageUpload",
+      "position": {
+        "x": 11187.632126748642,
+        "y": 2661.0437509045364
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 2.16.39 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 848,
+        "mediaHeight": 1320,
+        "mediaUrl": "{{user-upload}}",
+        "name": "022"
+      },
+      "width": 320,
+      "height": 562,
+      "style": {
+        "width": 320,
+        "height": 562
+      }
+    },
+    {
+      "id": "imageGenerator-7Y_zI3o2xz6ppm_Vwf5JQ",
+      "type": "imageGenerator",
+      "position": {
+        "x": 7471.291387728545,
+        "y": 2981.777355428022
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "idle",
+        "resultImage": null,
+        "errorMessage": null,
+        "name": "Image Generator 9",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [],
+        "activeRunIndex": 0,
+        "mediaWidth": 768,
+        "mediaHeight": 1344,
+        "outputText": null,
+        "resultVideo": null
+      },
+      "width": 320,
+      "height": 647,
+      "style": {
+        "width": 320,
+        "height": 647
+      }
+    },
+    {
+      "id": "imageUpload-CCRP2DKr6_ca6Kvg4Oyne",
+      "type": "imageUpload",
+      "position": {
+        "x": 6922.196290599062,
+        "y": 3319.611364225077
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 2.16.39 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 848,
+        "mediaHeight": 1320,
+        "mediaUrl": "{{user-upload}}",
+        "name": "322"
+      },
+      "width": 320,
+      "height": 562,
+      "style": {
+        "width": 320,
+        "height": 562
+      }
+    },
+    {
+      "id": "textNode-lRo7wL8880XCamIOeunHQ",
+      "type": "textNode",
+      "position": {
+        "x": 6920.5684696501985,
+        "y": 3038.7392331190254
+      },
+      "data": {
+        "text": "A realistic wide-shot of the farmson doing work out in the middle of a rice farm field under the blazing sun. He is doing a bench press made entirely of hay bales, as the heat pours down around him. (Reference to Ref223)\n\nPut the man in the middle center of the frame. \n\nBackground reference to the realistic pictures of rice field in \n\nMatch the visual style of the reference images 021 and 022: natural summer lifestyle photography, warm nostalgic cinematic mood, bright sunlit outdoor atmosphere, soft golden sunlight, gentle directional sunlight with subtle highlights and natural soft shadows, slightly hazy summer air, warm skin tones, rich fresh grass greens, soft sky blue, warm beige and earthy tones, balanced natural colors, slightly muted but vibrant color palette, soft film-like high contrast, subtle analog film grain, delicate highlight roll-off, slightly lifted shadows, realistic skin texture, natural imperfections, soft depth of field, gentle atmospheric haze, dreamy yet realistic, youthful and carefree summer feeling, candid editorial photography, premium commercial campaign aesthetic, authentic Hong Kong/Asian lifestyle photography. Avoid harsh HDR, overly saturated colors, deep crushed blacks, artificial studio lighting, cold tones, excessive sharpness, plastic skin, heavy color grading, or dramatic cinematic darkness. Full-frame 50mm prime lens, f/3.2–f/4, environmental lifestyle photography, subject in crisp focus, moderate depth of field, foreground grass softly out of focus, background landscape gently blurred but still recognizable, natural perspective and subtle background compression.",
+        "name": "Text Node 8",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-gXFLxEXQK-xW6F6yOphmd",
+      "type": "imageUpload",
+      "position": {
+        "x": 5817.803195085524,
+        "y": 1546.5649925506818
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "{{user-upload}}",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 752,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 1"
+      },
+      "width": 320,
+      "height": 629,
+      "style": {
+        "width": 320,
+        "height": 629
+      }
+    },
+    {
+      "id": "imageGenerator-unvWoVggiq8SD9HrTAQbK",
+      "type": "imageGenerator",
+      "position": {
+        "x": 6737.942357555417,
+        "y": 1475.4549706675984
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 10",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:44:07.315Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:46:21.343Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:46:57.383Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:48:18.240Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWidth": 768,
+        "mediaHeight": 1344
+      },
+      "width": 320,
+      "height": 647,
+      "style": {
+        "width": 320,
+        "height": 647
+      }
+    },
+    {
+      "id": "textNode-g7yZLroKLahzcE73dZWWA",
+      "type": "textNode",
+      "position": {
+        "x": 6204.617193432295,
+        "y": 1821.1968012025884
+      },
+      "data": {
+        "text": "Revise Image 1, make the man's face more enraged, look like his is trying so hard to lift the hay bales. \n\nMake the hay bales thicker. \n\nKeep other things the same. Keep this visual style. a realistic photo, keep the details, keep the texture",
+        "name": "Text Node 9"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-Aj7xr-kyiH4iZQCDQHSYo",
+      "type": "imageUpload",
+      "position": {
+        "x": 6039.892860284067,
+        "y": 4392.364314088242
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S2.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 768,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "rice field1"
+      },
+      "width": 320,
+      "height": 619,
+      "style": {
+        "width": 320,
+        "height": 619
+      }
+    },
+    {
+      "id": "textNode-kFP9A_3yitFU3BcnSfc2g",
+      "type": "textNode",
+      "position": {
+        "x": 7129.982966976915,
+        "y": 1863.9780507087464
+      },
+      "data": {
+        "text": "A realistic photo close-up of the man ( a realistic photo close-up of Image0), who is still lifting up his arms. Focus on the man's face, his facial expression change to curious and turn his head looking to the right. (reference to his face in farmson). Sweat on his body. \n\nKeep other things the same. Keep this visual style. a realistic photo, keep the details, keep the texture",
+        "name": "Text Node 11",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-v76UyxLGtVOZ2uFEtfb2E",
+      "type": "imageGenerator",
+      "position": {
+        "x": 7734.411849167742,
+        "y": 1639.2209195759244
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 11",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:56:08.723Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T07:58:22.054Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:01:09.288Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": 
