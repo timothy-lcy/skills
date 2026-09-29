@@ -1,0 +1,432 @@
+dth": 940,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 655,
+      "style": {
+        "width": 320,
+        "height": 655
+      }
+    },
+    {
+      "id": "imageUpload-ou_yc0NC7X47tvrTVb1kG",
+      "type": "imageUpload",
+      "position": {
+        "x": 973.4172153754159,
+        "y": 2919.558699215642
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S5_0_923.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 940,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 116"
+      },
+      "width": 320,
+      "height": 627,
+      "style": {
+        "width": 320,
+        "height": 627
+      }
+    },
+    {
+      "id": "imageUpload-1E6hWc6wqWjtqfUq80nVO",
+      "type": "imageUpload",
+      "position": {
+        "x": 970.9380225651028,
+        "y": 3559.811407259312
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S5_1_923.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 940,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 117"
+      },
+      "width": 320,
+      "height": 627,
+      "style": {
+        "width": 320,
+        "height": 627
+      }
+    },
+    {
+      "id": "imageUpload-S81xVPzm93WUYtvSAlG1_",
+      "type": "imageUpload",
+      "position": {
+        "x": -1004.3671227169594,
+        "y": 5632.404375294238
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_0_mum.jpeg",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 768,
+        "mediaHeight": 1024,
+        "mediaUrl": "{{user-upload}}",
+        "name": "M1"
+      },
+      "width": 320,
+      "height": 498,
+      "style": {
+        "width": 320,
+        "height": 498
+      }
+    },
+    {
+      "id": "imageUpload-XnrxRimZKBNDrbu8XKgnv",
+      "type": "imageUpload",
+      "position": {
+        "x": -1004.3671227169594,
+        "y": 6147.195994016498
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_1_Mum2.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 768,
+        "mediaHeight": 1024,
+        "mediaUrl": "{{user-upload}}",
+        "name": "M2"
+      },
+      "width": 320,
+      "height": 498,
+      "style": {
+        "width": 320,
+        "height": 498
+      }
+    },
+    {
+      "id": "imageUpload-M3amT0_Uyj8E9Ay4uKv9Y",
+      "type": "imageUpload",
+      "position": {
+        "x": -1003.789056492429,
+        "y": 6664.2998776368795
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_2_mum.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1008,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "M3"
+      },
+      "width": 320,
+      "height": 498,
+      "style": {
+        "width": 320,
+        "height": 498
+      }
+    },
+    {
+      "id": "videoGenerator-LCwQszSHvbjjRzJf5xOdL",
+      "type": "videoGenerator",
+      "position": {
+        "x": -514.9660712209078,
+        "y": 6079.932377852663
+      },
+      "data": {
+        "model": "seedance-2.0",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": null,
+        "duration": "10",
+        "aspectRatio": "3:4",
+        "resolution": "480p",
+        "prompt": "Seedance 2.0 Image-to-Video Prompt\nAnimate a continuous, uncut shot transitioning seamlessly across keyframes (M1 ➜ M2➜ M3). An older Thai woman in a motorcycle helmet and green jacket sits peacefully at a bamboo table in a rice field hut. With a gentle, calm smile, she takes a red instant food packet out of her jacket pocket, places it on the table, opens it, pours steaming hot water into the open packet from a vintage metal kettle, and then pulls a spoon out to stir the food directly inside the packet.\nKey Settings & Sequence Details\nStyle: Thai comedy TV commercial style, quirky and humorous tone.\nKeyframe Sequence: 1. M1 — Pulls red packet out from pocket and sets it upright on the bamboo table.\n2. M2 — Opens packet top and pours steaming hot water into it from kettle.\n3. M3 — Pulls spoon from pocket and calmly stirs the steaming hot contents inside the packet.\nCamera: Static medium shot, smooth continuous performance with no cuts.\nAtmosphere: Sunny countryside daytime, gentle breeze in the rice field background, visible steam rising from the packet.\nNO MUSIC, Only SFX.",
+        "name": "Video Generator 6",
+        "generateAudio": false,
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T09:43:22.505Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T09:50:21.000Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 560,
+        "mediaHeight": 752
+      },
+      "width": 851,
+      "height": 960,
+      "style": {
+        "width": 851,
+        "height": 960
+      }
+    },
+    {
+      "id": "videoUpload-936zXlq-359_Sm7WqDvRT",
+      "type": "videoUpload",
+      "position": {
+        "x": -2508.080036971232,
+        "y": 6023.955639781111
+      },
+      "data": {
+        "mediaUrl": "{{user-upload}}",
+        "filename": "black.mp4",
+        "mimeType": null,
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "duration": null,
+        "mediaWidth": 1920,
+        "mediaHeight": 1080,
+        "imageUrl": "{{user-upload}}",
+        "name": "black"
+      },
+      "width": 320,
+      "height": 274,
+      "style": {
+        "width": 320,
+        "height": 274
+      }
+    },
+    {
+      "id": "imageUpload-phWVcz8jBIRBdyWcz8jSJ",
+      "type": "imageUpload",
+      "position": {
+        "x": 187.41794321035053,
+        "y": 4864.574289585179
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S9.jpeg",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 608,
+        "mediaHeight": 1088,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 72"
+      },
+      "width": 320,
+      "height": 630,
+      "style": {
+        "width": 320,
+        "height": 630
+      }
+    },
+    {
+      "id": "videoGenerator-LRBPSpn8Xi1ZESV90EshB",
+      "type": "videoGenerator",
+      "position": {
+        "x": 1448.0919320841283,
+        "y": 6933.074747204631
+      },
+      "data": {
+        "model": "seedance-2.0",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": "Project credit limit reached — run not charged",
+        "duration": "5",
+        "aspectRatio": "9:16",
+        "resolution": "480p",
+        "prompt": "Animate the shirtless Thai man in a wide-legged stance rapidly and continuously shaking the large round woven bamboo tray from left to right in a fast, fluid back-and-forth motion. His entire body sways dynamically with exaggerated high energy and funny facial expressions, keeping the action fast and uninterrupted without any pause, slow motion, or freeze-frame. Rice grains continuously bounce, shift, and scatter side-to-side across the tray in fast real-time motion.\n\nDO NOT ADD TATOO ON HIS ARM\n\n**Key Settings**\n\n* **Style:** Thai comedy TV commercial style, fast-paced slapstick physical energy.\n* **Camera:** Medium full shot centered on the man, smoothly tracking the continuous left-to-right shaking motion.\n* **Motion:** Fast, non-stop side-to-side shaking movement, energetic body swaying, rapid bouncing rice grains, dynamic muscle tension.\n* **Atmosphere:** Bright sunny day in rural rice fields, hot sunlight, glistening sweat on skin.\n\nNO MUSIC, Only SFX",
+        "name": "Video Generator 7",
+        "generateAudio": false,
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:17:33.792Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:34:18.906Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:45:50.016Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:56:20.684Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T04:00:52.797Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T04:05:22.272Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T04:12:21.440Z",
+            "runIndex": 6
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T06:40:29.811Z",
+            "runIndex": 7
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T06:46:48.678Z",
+            "runIndex": 8
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T06:58:38.154Z",
+            "runIndex": 9
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T07:08:05.508Z",
+            "runIndex": 10
+          }
+        ],
+        "activeRunIndex": 10,
+        "mediaWidth": 496,
+        "mediaHeight": 864
+      },
+      "width": 719,
+      "height": 960,
+      "style": {
+        "width": 719,
+        "height": 960
+      }
+    },
+    {
+      "id": "imageUpload-1cG_8N6RmMOnHEpKbjidG",
+      "type": "imageUpload",
+      "position": {
+        "x": 963.0631736331718,
+        "y": 6806.200194246299
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S8_924.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Mud"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "imageUpload-c1f4uoZbODwuKaQz1wpDF",
+      "type": "imageUpload",
+      "position": {
+        "x": 886.5203134503319,
+        "y": 4966.287141568263
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-24 at 3.11.45 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 352,
+        "mediaHeight": 384,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 40"
+      },
+      "width": 320,
+      "height": 427,
+      "style": {
+        "width": 320,
+        "height": 427
+      }
+    },
+    {
+      "id": "imageUpload-eamB8CIj0WNsTj9SfkwVs",
+      "type": "imageUpload",
+      "position": {
+        "x": -1205.837129331362,
+        "y": 5086.819982458385
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_1_son_924.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1086,
+        "mediaHeight": 1448,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 18"
+      },
+      "width": 320,
+      "height": 498,
+      "style": {
+        "width": 320,
+        "height": 498
+      }
+    },
+    {
+      "id": "imageUpload-Azdq0ezVzFIGu2fkPzcXy",
+      "type": "imageUpload",
+      "position": {
+        "x": -2491.8695632993954,
+        "y": 4481.121523673165
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S7_924.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 940,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 19"
+      },
+      "width": 320,
+      "height": 627,
+      "style": {
+        "width": 320,
+        "height": 627
+      }
+    },
+    {
+      "id": "videoGenerator-6ormeeIXkwRjDRad5NHUJ",
+      "type": "videoGenerator",
+      "position": {
+        "x": -732.7990305675256,
+        "y": 4424.5861383059655
+      },
+      "data": {
+        "model": "seedance-2.0",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": null,
+        "duration": "5",
+        "aspectRatio": "3:4",
+        "resolution": "480p",
+        "prompt": "Create a single continuous shot using the reference image as the exact visual reference for the man, clothing, body, hat, muddy rice field, lighting, and overall environment.\nThe muscular Thai farmer is pulling rice seedlings out of the muddy rice paddy by hand. He plants his feet firmly in the mud, bends down, grips a large bundle of rice seedlings with both hands, and pulls upward with extreme force. His entire muscular body strains dramatically — shoulders, arms, chest and back flex intensely, face shows exaggerated effort, teeth clenched, eyes wide, sweat and mud covering his body.\nAs he suddenly succeeds, he yanks a huge bundle of rice seedlings out of the ground, sending mud, water and loose soil flying dramatically in all directions. He then throws the bundle upward with exaggerated power, striking a ridiculous heroic pose in the rice field.\nStyle: photorealistic Thai TV commercial, humorous Thai comedy, exaggerated physical performance, cinematic but intentionally over-the-top, extremely hot tropical midday sunlight, realistic wet mud and water splashes, dynamic body movement, dramatic facial expressions.\nCamera: medium-wide shot, slightly low angle, energetic handheld camera movement, subtle push-in during the struggle, then quickly pull back as the seedlings are ripped from the ground. Keep the man clearly visi
