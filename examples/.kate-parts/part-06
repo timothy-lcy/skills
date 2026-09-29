@@ -1,0 +1,409 @@
+imestamp": "2026-09-17T07:17:52.957Z",
+            "runIndex": 6
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:23:32.142Z",
+            "runIndex": 7
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:26:39.492Z",
+            "runIndex": 8
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:33:25.068Z",
+            "runIndex": 9
+          }
+        ],
+        "activeRunIndex": 9,
+        "mediaWidth": 768,
+        "mediaHeight": 1024
+      },
+      "width": 320,
+      "height": 526,
+      "style": {
+        "width": 320,
+        "height": 526
+      }
+    },
+    {
+      "id": "textNode-C4RnyGHWFeAlAMARgmIdk",
+      "type": "textNode",
+      "position": {
+        "x": 18528.439233190744,
+        "y": -1748.2949918620436
+      },
+      "data": {
+        "text": "Edit the existing image 000 while keeping the same woman, face, clothing, helmet, bamboo hut, rice field, lighting, camera angle, composition, background and overall photographic style unchanged. Only change her posture and hand action.\nChange her pose so that her anatomical Left hand reaches diagonally across the front of her body toward the JACKET POCKET on her anatomical Right side. Her right arm must clearly cross over the center of her torso to reach the left-side jacket pocket. The hand and the pocket must be on OPPOSITE sides of her body.\nHer anatomical RIGHT hand remains relaxed and naturally resting on or near the table. The LEFT hand is actively reaching into the RIGHT jacket pocket and pulling out the product, with the product partially emerging from the pocket.\n\nIgnore the existing arm direction in the source image and reconstruct the arm from scratch; the existing pose is incorrect and must not be used as a pose reference.\n\nThink in anatomical terms, not screen direction: her LEFT hand = the hand on her right side of the body; her RIGHT jacket pocket = the pocket on her left side of the body. The right hand must cross the torso to reach the left pocket. The hand and pocket MUST be on opposite sides of the image. Do not place the hand and pocket on the same side.\n\nPut the kettle on the table. \n\nImage 000 Keep the details, keep the color tone, keep the environment the same . For the output, remove all AI-noise, AI-artifacts.\n",
+        "name": "Resize"
+      },
+      "width": 556,
+      "height": 458,
+      "style": {
+        "width": 556,
+        "height": 458
+      }
+    },
+    {
+      "id": "imageUpload-6SrCv7FsIGzjpQN8IIZeE",
+      "type": "imageUpload",
+      "position": {
+        "x": 20566.358594321264,
+        "y": -718.5353178878609
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 10.20.09 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1978,
+        "mediaHeight": 2226,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 8"
+      },
+      "width": 320,
+      "height": 437,
+      "style": {
+        "width": 320,
+        "height": 437
+      }
+    },
+    {
+      "id": "textNode-UNGV3nJqU5TkV8W7_9tg9",
+      "type": "textNode",
+      "position": {
+        "x": 19745.944498584693,
+        "y": -2234.8576978485703
+      },
+      "data": {
+        "text": "Create a photorealistic cinematic lifestyle advertising photograph set in a rural Southeast Asian rice field. A strong, lean Southeast Asian male rice farmer son is standing starting a fire using wood sticks. A campfire right in front of his feet. The camera is set as POV of the ground, the fire is a front view, a low angle camera. \n\nThe son is captured in a dramatic dynamic pose: his legs spread wide for balance, his body leaning slightly forward, 他背著一大堆樹枝和乾草. His face shows intense physical effort, enraged, and exaggerated determination, with clenched teeth and a humorous, energetic expression. The son is looking at the fire. A cracked clay pot with clay pot lid is placed next to the fire.\n\nCharacter: the son, keep his hat\n\n\nEnvironment : Rice field farm land, reference to 110, 111\nFire reference : fire1, fire2\n\nVisual style: a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, medium depth of field around f/3.5–f/5.6, give head room, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.\n\nAvoid: studio lighting, artificial beauty retouching, plastic skin, extreme HDR, excessive sharpness, extreme bokeh, oversaturated colors, heavy orange-and-teal grading, dramatic Hollywood lighting, perfect symmetry, artificial-looking steam, CGI appearance.\n",
+        "name": "Text Node 22",
+        "errorMessage": null
+      },
+      "width": 670,
+      "height": 849,
+      "style": {
+        "width": 670,
+        "height": 849
+      }
+    },
+    {
+      "id": "imageUpload-ISROo4-niR0tRGixUM7xj",
+      "type": "imageUpload",
+      "position": {
+        "x": 21363.967607178292,
+        "y": -2551.259854367441
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Son_1.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1448,
+        "mediaHeight": 1086,
+        "mediaUrl": "{{user-upload}}",
+        "name": "son"
+      },
+      "width": 320,
+      "height": 329,
+      "style": {
+        "width": 320,
+        "height": 329
+      }
+    },
+    {
+      "id": "imageGenerator-8Crl3WxjFLPIFf55GtNEI",
+      "type": "imageGenerator",
+      "position": {
+        "x": 21121.03167731284,
+        "y": -1436.9028586779048
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 24",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:19:13.800Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:21:04.676Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:25:10.289Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:57:17.500Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:03:38.075Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:37:03.006Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:40:10.767Z",
+            "runIndex": 6
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:51:25.776Z",
+            "runIndex": 7
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:56:45.508Z",
+            "runIndex": 8
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:59:41.335Z",
+            "runIndex": 9
+          }
+        ],
+        "activeRunIndex": 9,
+        "mediaWidth": 768,
+        "mediaHeight": 1024,
+        "outputText": null,
+        "resultVideo": null
+      },
+      "width": 320,
+      "height": 526,
+      "style": {
+        "width": 320,
+        "height": 526
+      }
+    },
+    {
+      "id": "imageUpload-mdW7hdzDZ0yNL_P2sgnCd",
+      "type": "imageUpload",
+      "position": {
+        "x": 14339.239429301015,
+        "y": 1175.3637186443639
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_1_Mum2.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 768,
+        "mediaHeight": 1024,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 322"
+      },
+      "width": 320,
+      "height": 498,
+      "style": {
+        "width": 320,
+        "height": 498
+      }
+    },
+    {
+      "id": "imageUpload--VlNwue5vjwbxTm800fIp",
+      "type": "imageUpload",
+      "position": {
+        "x": 14349.942293336038,
+        "y": 1693.8580207855512
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 2.34.18 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 424,
+        "mediaHeight": 504,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 33"
+      },
+      "width": 320,
+      "height": 456,
+      "style": {
+        "width": 320,
+        "height": 456
+      }
+    },
+    {
+      "id": "textNode-dL2yjGuQAwfvou7crj-zW",
+      "type": "textNode",
+      "position": {
+        "x": 14247.075877888303,
+        "y": 809.0879272235252
+      },
+      "data": {
+        "text": "Re-render Image 322, change the hot water kettle to a spoon, the spoon is dip into the package, so please also change the hand position to a reasonable placement.\n\n\nkeep other details the same, keep the color tone and frame structure. ",
+        "name": "Text Node 23"
+      },
+      "width": 657,
+      "height": 355,
+      "style": {
+        "width": 657,
+        "height": 355
+      }
+    },
+    {
+      "id": "imageGenerator-BzcUmbCpzL9xzz0Yue_Iu",
+      "type": "imageGenerator",
+      "position": {
+        "x": 15068.817994355184,
+        "y": 1372.7720997348156
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 25",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:42:55.829Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:47:13.802Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 1008,
+        "mediaHeight": 1344
+      },
+      "width": 320,
+      "height": 526,
+      "style": {
+        "width": 320,
+        "height": 526
+      }
+    },
+    {
+      "id": "imageUpload-kvh7Y5gdIQ7k654GvxXuT",
+      "type": "imageUpload",
+      "position": {
+        "x": 20624.04872874109,
+        "y": -2084.293788434387
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 2.51.01 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1116,
+        "mediaHeight": 1052,
+        "mediaUrl": "{{user-upload}}",
+        "name": "fire1"
+      },
+      "width": 320,
+      "height": 384,
+      "style": {
+        "width": 320,
+        "height": 384
+      }
+    },
+    {
+      "id": "imageUpload-Wygjhi7vyJEgeVOONJHsT",
+      "type": "imageUpload",
+      "position": {
+        "x": 21018.787347936344,
+        "y": -2080.559135384666
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 2.50.54 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 976,
+        "mediaHeight": 854,
+        "mediaUrl": "{{user-upload}}",
+        "name": "fire2"
+      },
+      "width": 320,
+      "height": 365,
+      "style": {
+        "width": 320,
+        "height": 365
+      }
+    },
+    {
+      "id": "imageUpload-94u6e9IqpQnGQgrYh043d",
+      "type": "imageUpload",
+      "position": {
+        "x": 20504.05835870304,
+        "y": -1575.9765028502086
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 2.59.59 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 960,
+        "mediaHeight": 492,
+        "mediaUrl": "{{user-upload}}",
+        "name": "clay pot"
+      },
+      "width": 320,
+      "height": 260,
+      "style": {
+        "width": 320,
+        "height": 260
+      }
+    },
+    {
+      "id": "imageUpload-NsQUj9gWwLw26jNQM1m2E",
+      "type": "imageUpload",
+      "position": {
+        "x": 21788.989625864982,
+        "y": -1474.068087042997
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_0_son.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1008,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 9"
+      },
+      "width": 320,
+      "heig
