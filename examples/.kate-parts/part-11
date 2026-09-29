@@ -1,0 +1,541 @@
+0,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-lwnd9aDjlB-0RYSzJ8c0h",
+      "type": "imageUpload",
+      "position": {
+        "x": 813.9522976199107,
+        "y": 5620.710180595841
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "ChatGPT Image Sep 23, 2026 at 12_55_20 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1214,
+        "mediaHeight": 1295,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 32"
+      },
+      "width": 320,
+      "height": 420,
+      "style": {
+        "width": 320,
+        "height": 420
+      }
+    },
+    {
+      "id": "imageUpload-ZGlnmdGB-juYfSJB1c7Qa",
+      "type": "imageUpload",
+      "position": {
+        "x": 578.7726652836893,
+        "y": 6014.809986825961
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S4_1.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 752,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 300"
+      },
+      "width": 320,
+      "height": 629,
+      "style": {
+        "width": 320,
+        "height": 629
+      }
+    },
+    {
+      "id": "imageGenerator-s_rHfYTuF3vt1zJQ8vjr_",
+      "type": "imageGenerator",
+      "position": {
+        "x": 1441.0897975519028,
+        "y": 5706.442178459781
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 36",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:15:42.377Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:23:40.910Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:29:09.765Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:35:57.671Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T06:07:37.533Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T06:28:54.034Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T02:56:14.785Z",
+            "runIndex": 6
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:00:00.735Z",
+            "runIndex": 7
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:07:19.959Z",
+            "runIndex": 8
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:11:14.837Z",
+            "runIndex": 9
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:15:51.688Z",
+            "runIndex": 10
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:41:06.042Z",
+            "runIndex": 11
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T03:50:17.618Z",
+            "runIndex": 12
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T06:28:01.305Z",
+            "runIndex": 13
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-24T07:14:45.284Z",
+            "runIndex": 14
+          }
+        ],
+        "activeRunIndex": 14,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "imageUpload-j2PZEU0RbD9stWsTJG8cd",
+      "type": "imageUpload",
+      "position": {
+        "x": 2965.2107333891986,
+        "y": 4418.567336146775
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S4_1_923b.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 17"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "textNode-14Nlwd235eIF6m9REbar2",
+      "type": "textNode",
+      "position": {
+        "x": 3421.660660185938,
+        "y": 3712.305450894937
+      },
+      "data": {
+        "text": "On Image442, make the man's face look serious, looking at the paperboard with doubt \n\nKeep the same framing, keep the same facial reaction, keep the same color tone of Image 442",
+        "name": "Text Node 39",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-BKzLvB84VsNyeLHyurfFM",
+      "type": "imageGenerator",
+      "position": {
+        "x": 3831.968826071504,
+        "y": 3917.1437859118278
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 923",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T05:43:47.720Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T07:06:25.661Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 940,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 655,
+      "style": {
+        "width": 320,
+        "height": 655
+      }
+    },
+    {
+      "id": "imageUpload-p0hTIKpbQeM_r0waPjv7U",
+      "type": "imageUpload",
+      "position": {
+        "x": 3051.5104083566007,
+        "y": 3796.574227569118
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-23 at 1.40.49 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 494,
+        "mediaHeight": 476,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image lens"
+      },
+      "width": 320,
+      "height": 390,
+      "style": {
+        "width": 320,
+        "height": 390
+      }
+    },
+    {
+      "id": "imageUpload-5ZnzKjpwrODDzTODMraZD",
+      "type": "imageUpload",
+      "position": {
+        "x": 96.11569282235229,
+        "y": 5385.368779860464
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S4_2.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 768,
+        "mediaHeight": 1344,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 44"
+      },
+      "width": 320,
+      "height": 619,
+      "style": {
+        "width": 320,
+        "height": 619
+      }
+    },
+    {
+      "id": "imageUpload-ZgCZoMqi4LsVvsL5j7wCJ",
+      "type": "imageUpload",
+      "position": {
+        "x": 474.16215890937497,
+        "y": 5189.24750729731
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S4_1_923.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 41"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "imageUpload-nwyseJAgZrEcVDUmt5Yj8",
+      "type": "imageUpload",
+      "position": {
+        "x": 976.4797698881048,
+        "y": 4245.817043352625
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S5_3_923.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 112"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "imageUpload-jyvw0ye2KS8gkvXItPW62",
+      "type": "imageUpload",
+      "position": {
+        "x": -56.83982540329462,
+        "y": 3432.6032669579276
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S5_1_923.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 940,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 111"
+      },
+      "width": 320,
+      "height": 627,
+      "style": {
+        "width": 320,
+        "height": 627
+      }
+    },
+    {
+      "id": "videoGenerator-sy76lM4NuyUrnX1TQC9p8",
+      "type": "videoGenerator",
+      "position": {
+        "x": 1549.9309485430567,
+        "y": 3412.9847957338093
+      },
+      "data": {
+        "model": "seedance-2.0-i2v",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": null,
+        "duration": "4",
+        "aspectRatio": "9:16",
+        "resolution": "720p",
+        "prompt": "Animate the shirtless Thai farmer in a rice field taking out the cardboard phone quickly and dramatically.\n\nKey Settings\n\nStyle: Thai comedy TV show style, slapstick comedic timing.\nCamera: Medium shot. Still and steady camera. \nKeyframes: Start frame Image 116, end image 117.\n\nTiming:\n0–2 sec: taking out the phone sharply and quickly\n2–4 sec: he looking at the phone\n\nDO NOT SHOW ANY MESSAGE INTERFACE POP UP",
+        "name": "Video Generator 4",
+        "generateAudio": false,
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T07:17:00.707Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T07:23:20.161Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T07:34:53.238Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T08:49:19.998Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T08:57:03.380Z",
+            "runIndex": 4
+          }
+        ],
+        "activeRunIndex": 4,
+        "mediaWidth": 720,
+        "mediaHeight": 1280
+      },
+      "width": 859,
+      "height": 960,
+      "style": {
+        "width": 859,
+        "height": 960
+      }
+    },
+    {
+      "id": "videoGenerator-H4WdvwYOoBumvhLD2AfWW",
+      "type": "videoGenerator",
+      "position": {
+        "x": 8676.247644627123,
+        "y": 4196.732568167286
+      },
+      "data": {
+        "model": "seedance-2.0-i2v",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": null,
+        "duration": "4",
+        "aspectRatio": "9:16",
+        "resolution": "720p",
+        "prompt": "the hand is holding a cardboard , hold still ",
+        "name": "Video Generator 5",
+        "generateAudio": false,
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T08:19:21.363Z",
+            "runIndex": 0
+          }
+        ],
+        "activeRunIndex": 0,
+        "mediaWidth": 720,
+        "mediaHeight": 1280
+      },
+      "width": 320,
+      "height": 865,
+      "style": {
+        "width": 320,
+        "height": 865
+      }
+    },
+    {
+      "id": "textNode-9TO6Xceu3duZkGnbSt2sE",
+      "type": "textNode",
+      "position": {
+        "x": -55.52619319903644,
+        "y": 3116.6516823542765
+      },
+      "data": {
+        "text": "Image 111, change the pose of this farmer, he taking out the phone from his back, so his pose is like hiding the phone at his back with one hand, the other hand is relax\n\nKeep the colorful string around the phone sides",
+        "name": "Text Node 40"
+      },
+      "width": 392,
+      "height": 305,
+      "style": {
+        "width": 392,
+        "height": 305
+      }
+    },
+    {
+      "id": "imageGenerator-geKE2mjPx096QCpMn6RA1",
+      "type": "imageGenerator",
+      "position": {
+        "x": 440.31948635087986,
+        "y": 3276.4261717435
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 924",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T08:25:57.249Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T08:34:44.446Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T08:39:30.867Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T08:41:28.383Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWi
