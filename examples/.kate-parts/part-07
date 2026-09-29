@@ -1,0 +1,316 @@
+ht": 498,
+      "style": {
+        "width": 320,
+        "height": 498
+      }
+    },
+    {
+      "id": "textNode-tfdPkFMYo0B9ehs2F_gmn",
+      "type": "textNode",
+      "position": {
+        "x": 21765.419492903296,
+        "y": -1747.6503991244301
+      },
+      "data": {
+        "text": "Extend the existing image, extend the edges, put the subject in the center of the frame\n\nKeep the same color tone, keep the details. Keep frame structure. \n\nRemove all AI-noises and AI-artifacts. ",
+        "name": "Text Node 24"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-iyNdFbwhXHpibJUjAJb0N",
+      "type": "imageGenerator",
+      "position": {
+        "x": 22289.780234578004,
+        "y": -1669.7048834700813
+      },
+      "data": {
+        "model": "nano-banana-pro",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 26",
+        "resolution": "2K",
+        "aspectRatio": "4:3",
+        "quality": "high",
+        "imageSize": "auto",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:46:42.844Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:52:02.085Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 1184,
+        "mediaHeight": 864
+      },
+      "width": 320,
+      "height": 351,
+      "style": {
+        "width": 320,
+        "height": 351
+      }
+    },
+    {
+      "id": "textNode-xq06qGxLdIDVHSLZ6_WV_",
+      "type": "textNode",
+      "position": {
+        "x": 19832.305434336522,
+        "y": -3286.0746091895735
+      },
+      "data": {
+        "text": "Create a photorealistic cinematic lifestyle advertising photograph set in a rural Southeast Asian rice field during warm late-afternoon sunlight. A strong, lean Southeast Asian male rice farmer is standing knee-deep in a muddy rice paddy, caught in an energetic moment while planting or pulling rice seedlings. He is shirtless, covered with wet mud and splashes of soil, wearing dark loose farmer's shorts with a red patterned cloth tied around his waist, and a large woven straw farmer's hat.\nThe man is captured in a dramatic dynamic pose: his legs spread wide for balance, his body leaning slightly forward, one arm raised high above his head gripping a large bundle of freshly pulled rice seedlings with exposed roots and clumps of wet soil. His face shows intense physical effort and exaggerated determination, with clenched teeth and a humorous, energetic expression.\nFreeze the action at the most dynamic moment, with chunks of wet mud, water droplets, loose soil and tiny rice roots suspended in the air around him. Capture the movement sharply and clearly, creating a powerful sense of motion and physical energy.\n\nCharacter: the son, keep his hat\n\n\nEnvironment : Rice field farm land, reference to 110, 111\n\nVisual style: a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, medium depth of field around f/3.5–f/5.6, give head room, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.\n\nAvoid: studio lighting, artificial beauty retouching, plastic skin, extreme HDR, excessive sharpness, extreme bokeh, oversaturated colors, heavy orange-and-teal grading, dramatic Hollywood lighting, perfect symmetry, artificial-looking steam, CGI appearance.\n",
+        "name": "Text Node 25",
+        "errorMessage": null
+      },
+      "width": 670,
+      "height": 849,
+      "style": {
+        "width": 670,
+        "height": 849
+      }
+    },
+    {
+      "id": "imageUpload-6gUlRjaxPCmj9ecqpJNYx",
+      "type": "imageUpload",
+      "position": {
+        "x": 18131.430877504652,
+        "y": 388.6108932262797
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 3.58.32 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 3838,
+        "mediaHeight": 2154,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image 62"
+      },
+      "width": 320,
+      "height": 274,
+      "style": {
+        "width": 320,
+        "height": 274
+      }
+    },
+    {
+      "id": "imageUpload-98jsC_hdVnWsobZE83mkj",
+      "type": "imageUpload",
+      "position": {
+        "x": 21511.672749504498,
+        "y": -2979.5191743085607
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S6_1_Son.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1024,
+        "mediaHeight": 1024,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 10"
+      },
+      "width": 320,
+      "height": 401,
+      "style": {
+        "width": 320,
+        "height": 401
+      }
+    },
+    {
+      "id": "textNode-Q_cVj7vdC91QR2Z-rexy5",
+      "type": "textNode",
+      "position": {
+        "x": 21531.71074206594,
+        "y": -3252.16554693199
+      },
+      "data": {
+        "text": "Create a photorealistic cinematic extreme close-up shot of this Southeast Asian male rice farmer son, focus on the sweat on his neck and throat. \n\nKeep the same color tone, keep the details. \n\nRemove all AI-noises and AI-artifacts. ",
+        "name": "Text Node 26"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-zYz9fOiYH6Uk226Dtgjz9",
+      "type": "imageGenerator",
+      "position": {
+        "x": 22972.71885048976,
+        "y": -2715.7132578975898
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 27",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:05:27.729Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:08:05.878Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:15:25.247Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:03:46.130Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWidth": 768,
+        "mediaHeight": 1024
+      },
+      "width": 320,
+      "height": 526,
+      "style": {
+        "width": 320,
+        "height": 526
+      }
+    },
+    {
+      "id": "imageGenerator-3j1Ku4QsmZ95I1nOssZZP",
+      "type": "imageGenerator",
+      "position": {
+        "x": 19604.078359847248,
+        "y": 529.5304803080355
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 28",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:10:54.991Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:13:11.032Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:17:34.325Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:24:27.635Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:27:23.647Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T08:51:11.593Z",
+            "runIndex": 5
+          }
+        ],
+        "activeRunIndex": 5,
+        "mediaWidth": 608,
+        "mediaHeight": 1088
+      },
+      "width": 320,
+      "height": 658,
+      "style": {
+        "width": 320,
+        "height": 658
+      }
+    },
+    {
+      "id": "textNode-Hvs6CfC3EQs27OdSC-eEL",
+      "type": "textNode",
+      "position": {
+        "x": 18681.559478544757,
+        "y": -149.61678258737274
+      },
+      "data": {
+        "text": "Create a photorealistic premium Southeast Asian rural lifestyle photograph.\nA warm, peaceful rice-farming scene at golden-hour sunset. An older Southeast Asian woman MUM2 wearing a white vintage motorcycle helmet with a green stripe, a bright green long-sleeve jacket, a patterned traditional blouse, a checked woven towel draped over one shoulder, colorful patterned trousers and dark rubber boots is sitting on a rustic bamboo platform beside a large water buffalo Buffalo.\nThe woman gently interacts with the buffalo Buffalo with an affectionate, natural expression. One hand rests gently on the buffalo's head near its horn, while the other hand lightly holds or touches the buffalo's muzzle. The buffalo is calm and relaxed, facing slightly toward camera. Their relationship should feel warm, familiar and authentic, like a real everyday moment between a farmer and her animal.\nForeground product placement: place the exact provided LuemHung rice package prominently on the rustic bamboo table in the foreground, slightly left of center. LuemHung rice package is  placed on the foreground table. The package is upright, front-facing, fully visible and clearly legible. It should be the same physical product as the reference image LuemHung and Image 000, which is small as a hand palm, with the exact red packaging, cream label, gold decorative borders, Thai typography, logo, illustrations and transparent rice window. Do not redesign, simplify, reinterpret or replace the packaging. Preserve the exact product identity and visual artwork from the reference. \nThe product should be slightly closer to camera than the woman and buffalo, making it a clear foreground hero while still keeping the human story visible behind it. Focus on the LuemHung product to create a deep depth of field (the MUM2 and buffalo are blurry). \n\nVisual style: a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, give head room, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.\n\nAvoid: studio photography, artificial commercial lighting, excessive HDR, oversaturated colors, heavy orange-and-teal grading, extreme background blur, plastic skin, CGI appearance, fantasy elements, exaggerated poses, distorted buffalo anatomy, redesigned packaging, incorrect product graphics or unreadable product branding.",
+        "name": "Text Node 27"
+      },
+      "width": 879,
+      "height": 621,
+      "style": {
+        "width": 879,
+        "height": 621
+      }
+    },
+    {
+      "id": "imageUpload-5he1XnDJbTzwP0_PPD5L3",
+      "type": "imageUpload",
+      "position": {
+        "x": 16881.326563004546,
+        "y": 923.6943734986215
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 4.04.06 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 862,
+        "mediaHeight": 1070,
+        "mediaUrl": "{{user-upload}}",
+        "name": "LuemHung"
+      },
+      "width": 320,
+      "height": 471,
+      "style": {
+        "width": 320,
+        "height": 471
+      }
+    },
+    {
+      "id": "imageUpload-IHtvvMzDvHosOgHLU0SwV",
+      "
