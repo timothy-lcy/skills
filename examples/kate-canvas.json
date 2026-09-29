@@ -1,1 +1,33 @@
-INCOMPLETE_DO_NOT_COMMIT
+{
+  "kind": "jif-canvas-project",
+  "version": 1,
+  "exportedAt": "2026-09-29T06:20:18.536Z",
+  "title": "Kate",
+  "nodes": [
+    {
+      "id": "imageUpload-DC1UawTe2GV7prcDYboZE",
+      "type": "imageUpload",
+      "position": {
+        "x": -493.73344251196056,
+        "y": 891.2250794628332
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.21.15 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 862,
+        "mediaHeight": 856,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Bag"
+      },
+      "width": 320,
+      "height": 399,
+      "style": {
+        "width": 320,
+        "height": 399
+      }
+    }
+  ],
+  "edges": []
+}
