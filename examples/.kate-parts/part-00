@@ -1,0 +1,533 @@
+{
+  "kind": "jif-canvas-project",
+  "version": 1,
+  "exportedAt": "2026-09-29T06:20:18.536Z",
+  "title": "Kate",
+  "nodes": [
+    {
+      "id": "imageUpload-DC1UawTe2GV7prcDYboZE",
+      "type": "imageUpload",
+      "position": {
+        "x": -493.73344251196056,
+        "y": 891.2250794628332
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.21.15 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 862,
+        "mediaHeight": 856,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Bag"
+      },
+      "width": 320,
+      "height": 399,
+      "style": {
+        "width": 320,
+        "height": 399
+      }
+    },
+    {
+      "id": "imageUpload-1AhL6ytS6YhKCm0JCaE6k",
+      "type": "imageUpload",
+      "position": {
+        "x": 293.5,
+        "y": 532
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.18.55 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1034,
+        "mediaHeight": 1626,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Mum"
+      },
+      "width": 320,
+      "height": 567,
+      "style": {
+        "width": 320,
+        "height": 567
+      }
+    },
+    {
+      "id": "imageUpload-F33LrrQvRpsOSjimhYQ3w",
+      "type": "imageUpload",
+      "position": {
+        "x": 968.1418592434496,
+        "y": 141.9045683869696
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.18.45 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 466,
+        "mediaHeight": 570,
+        "mediaUrl": "{{user-upload}}",
+        "name": "MOO"
+      },
+      "width": 320,
+      "height": 466,
+      "style": {
+        "width": 320,
+        "height": 466
+      }
+    },
+    {
+      "id": "imageUpload-_x9otQbaTi6pej3EnXU27",
+      "type": "imageUpload",
+      "position": {
+        "x": 267.60805604411973,
+        "y": 1354.6564371930551
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.18.30 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 462,
+        "mediaHeight": 738,
+        "mediaUrl": "{{user-upload}}",
+        "name": "clothes"
+      },
+      "width": 320,
+      "height": 574,
+      "style": {
+        "width": 320,
+        "height": 574
+      }
+    },
+    {
+      "id": "imageGenerator-GAEjpso5rsEjBlEhdQ1lA",
+      "type": "imageGenerator",
+      "position": {
+        "x": 953.8399837791904,
+        "y": 924.8451690274021
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "woman",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "landscape_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T03:43:21.023Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T03:49:16.939Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T03:52:26.206Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T03:54:35.656Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T03:59:53.981Z",
+            "runIndex": 4
+          }
+        ],
+        "activeRunIndex": 4,
+        "mediaWidth": 1448,
+        "mediaHeight": 1086
+      },
+      "width": 320,
+      "height": 357,
+      "style": {
+        "width": 320,
+        "height": 357
+      }
+    },
+    {
+      "id": "textNode-soI9JvO46oN8psDO78Hn1",
+      "type": "textNode",
+      "position": {
+        "x": 284.1279771362785,
+        "y": 1103.598282317832
+      },
+      "data": {
+        "text": "A realistic studio professional picture of a woman full body front shot and full body side shot. \n\nThe woman is the Mum, whose outfit is the colorful vintage tank, shorts and sandals in clothes. She is wearing the green jacket of Grab, please remove the GrabFood logo on the jacket. She is also wearing the square-shaped warm keeper food bag Bag and white based green pattern Helmet. Make her jacker zip open as to show the purple tank top inside. \n\n",
+        "name": "Text Node 1"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-bIbY9U8vDTp23EWB2Ba_G",
+      "type": "imageUpload",
+      "position": {
+        "x": -549.8209577920816,
+        "y": 1365.469071820046
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.46.17 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 598,
+        "mediaHeight": 616,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Helmet"
+      },
+      "width": 320,
+      "height": 410,
+      "style": {
+        "width": 320,
+        "height": 410
+      }
+    },
+    {
+      "id": "imageUpload-vFPbJTcUsof2jH1BO-sie",
+      "type": "imageUpload",
+      "position": {
+        "x": -107.51841481425774,
+        "y": 826.3447216747153
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.18.50 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 356,
+        "mediaHeight": 499,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Grab"
+      },
+      "width": 320,
+      "height": 517,
+      "style": {
+        "width": 320,
+        "height": 517
+      }
+    },
+    {
+      "id": "textNode-OGsYEoFdDrD2Wx-Foa2vo",
+      "type": "textNode",
+      "position": {
+        "x": 958.9066339011222,
+        "y": 651.5189743833104
+      },
+      "data": {
+        "text": "A realistic studio professional picture of a woman riding a buffalo MOO (or MOO2) on a rough dirt road in a farmland, she holds the string tightly with tension. She is on a hurry, rushing to the destination, thus she shows a worried face. Her outfit should stick with the outfit in woman.\n\nBackground is a realistic farmland, reference to farmland1 and farmland2. ",
+        "name": "Text Node 2"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-qitA338FdxRVXky6Rf2J5",
+      "type": "imageUpload",
+      "position": {
+        "x": 954.1560165970379,
+        "y": 1304.718897822665
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 12.02.52 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 348,
+        "mediaHeight": 326,
+        "mediaUrl": "{{user-upload}}",
+        "name": "ref1"
+      },
+      "width": 320,
+      "height": 383,
+      "style": {
+        "width": 320,
+        "height": 383
+      }
+    },
+    {
+      "id": "imageUpload-ijPOplZjXPxzYhZswie77",
+      "type": "imageUpload",
+      "position": {
+        "x": 143.21301944576823,
+        "y": 2153.61363800891
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.56.00 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1514,
+        "mediaHeight": 846,
+        "mediaUrl": "{{user-upload}}",
+        "name": "hat2"
+      },
+      "width": 320,
+      "height": 273,
+      "style": {
+        "width": 320,
+        "height": 273
+      }
+    },
+    {
+      "id": "imageUpload-x-OBKpohYNyS2UnF20EP9",
+      "type": "imageUpload",
+      "position": {
+        "x": -439.00404370366505,
+        "y": 2145.516381660876
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.54.33 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 348,
+        "mediaHeight": 174,
+        "mediaUrl": "{{user-upload}}",
+        "name": "hat1"
+      },
+      "width": 320,
+      "height": 256,
+      "style": {
+        "width": 320,
+        "height": 256
+      }
+    },
+    {
+      "id": "imageUpload-xRyp6DqA-JkEvBUvuUhr1",
+      "type": "imageUpload",
+      "position": {
+        "x": -432.52047956150506,
+        "y": 2436.3259453618243
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.54.24 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 388,
+        "mediaHeight": 492,
+        "mediaUrl": "{{user-upload}}",
+        "name": "son-clo"
+      },
+      "width": 320,
+      "height": 479,
+      "style": {
+        "width": 320,
+        "height": 479
+      }
+    },
+    {
+      "id": "imageUpload-douykGzWp2KGP5jcN-7BN",
+      "type": "imageUpload",
+      "position": {
+        "x": 33.379874350835195,
+        "y": 2483.4179174479787
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.54.16 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 572,
+        "mediaHeight": 828,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Son"
+      },
+      "width": 320,
+      "height": 531,
+      "style": {
+        "width": 320,
+        "height": 531
+      }
+    },
+    {
+      "id": "imageUpload-Jj_jJkb8jbntza6UPkJzp",
+      "type": "imageUpload",
+      "position": {
+        "x": 450.7050865010913,
+        "y": 2482.382974229868
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 12.10.30 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1176,
+        "mediaHeight": 468,
+        "mediaUrl": "{{user-upload}}",
+        "name": "dirty"
+      },
+      "width": 320,
+      "height": 226,
+      "style": {
+        "width": 320,
+        "height": 226
+      }
+    },
+    {
+      "id": "imageUpload-c69pAG79CFlBUBDyl9wb8",
+      "type": "imageUpload",
+      "position": {
+        "x": 1439.679772362677,
+        "y": 197.09616659618803
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 12.11.37 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1052,
+        "mediaHeight": 1224,
+        "mediaUrl": "{{user-upload}}",
+        "name": "MOO2"
+      },
+      "width": 320,
+      "height": 448,
+      "style": {
+        "width": 320,
+        "height": 448
+      }
+    },
+    {
+      "id": "imageUpload-ifkoCLwU4rHCalQe8XVNy",
+      "type": "imageUpload",
+      "position": {
+        "x": 7223.882615705164,
+        "y": 1203.9466726187143
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 12.14.17 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1436,
+        "mediaHeight": 2146,
+        "mediaUrl": "{{user-upload}}",
+        "name": "hurry"
+      },
+      "width": 320,
+      "height": 544,
+      "style": {
+        "width": 320,
+        "height": 544
+      }
+    },
+    {
+      "id": "imageGenerator-ywWE-MRKHBZQmpxeRGHS2",
+      "type": "imageGenerator",
+      "position": {
+        "x": 2217.962650019865,
+        "y": 714.0315099429602
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 2",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T04:22:45.499Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T04:25:02.629Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "imageUpload-nPmIE5qfsRzLR15o7gTfe",
+      "type": "imageUpload",
+      "position": {
+        "x": 1455.519016866339,
+        "y": 1612.5486526961242
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 11.18.36 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 876,
+        "mediaHeight": 922,
+        "mediaUrl": "{{user-upload}}",
+        "name": "farmland1"
+      },
+      "width": 320,
+      "height": 416,
+      "style": {
+        "width": 320,
+        "height": 416
+      }
+    },
+    {
+      "id": "imageUpload-nvYhujkEs6qkY4K_uK4vB",
+      "type": "imageUpload",
+      "position": {
+        "x": 1847.1803355023333,
+        "y": 1533.3524301778164
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 12.17.16 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 2772,
+        "mediaHeight": 1552,
+        "mediaUrl": "{{user-upload}}",
+        "name": "farmland2"
+      },
+      "width": 320,
+      "height": 273,
+      "style": {
+        "width": 320,
+        "height": 273
+      }
+    },
+    {
+      "id": "imageGenerator-ZCTPSNQIWZcll4TJzr5Sl",
+      "type": "imageGenerator",
+      "position": {
+        "x": 11116.
