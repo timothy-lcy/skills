@@ -1,0 +1,330 @@
+   "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:18:00.177Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:27:43.307Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:31:04.083Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWidth": 608,
+        "mediaHeight": 1088
+      },
+      "width": 320,
+      "height": 658,
+      "style": {
+        "width": 320,
+        "height": 658
+      }
+    },
+    {
+      "id": "textNode-zLG9AIr2u8Bzts3J_Sbmh",
+      "type": "textNode",
+      "position": {
+        "x": 23083.39836151913,
+        "y": -3025.775471696526
+      },
+      "data": {
+        "text": "Upscale this image.\n\nRemove all AI-noise. ",
+        "name": "Text Node 32"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-2d5Rf6q7R5EvnQoSKYdsV",
+      "type": "imageGenerator",
+      "position": {
+        "x": 23857.589626776098,
+        "y": -2707.493067705517
+      },
+      "data": {
+        "model": "nano-banana-pro",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 32",
+        "resolution": "2K",
+        "aspectRatio": "9:16",
+        "quality": "high",
+        "imageSize": "auto",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:13:26.530Z",
+            "runIndex": 0
+          }
+        ],
+        "activeRunIndex": 0,
+        "mediaWidth": 896,
+        "mediaHeight": 1152
+      },
+      "width": 320,
+      "height": 512,
+      "style": {
+        "width": 320,
+        "height": 512
+      }
+    },
+    {
+      "id": "imageUpload-WiEkNMYOkK9m_Z28Fv77b",
+      "type": "imageUpload",
+      "position": {
+        "x": 16336.626799071524,
+        "y": 2835.4763227872045
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 4.59.35 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 3830,
+        "mediaHeight": 2142,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 11"
+      },
+      "width": 320,
+      "height": 273,
+      "style": {
+        "width": 320,
+        "height": 273
+      }
+    },
+    {
+      "id": "textNode-jRgSSG013SipyDy8y6zpW",
+      "type": "textNode",
+      "position": {
+        "x": 18314.16055050504,
+        "y": 2642.1081943088216
+      },
+      "data": {
+        "text": "Create a photorealistic premium Southeast Asian food advertising photograph, cinematic 9:16 composition, set in a rural rice-farming village during warm golden-hour sunset.\nA muscular Southeast Asian male farmer son sits casually on a rustic bamboo platform on the left side of the frame. He is shirtless, with natural skin texture, subtle sweat and traces of outdoor work, wearing loose dark traditional farmer shorts and a red patterned cloth tied around his waist. He is wearing a hat. He is holding the LuemHung product on his left hand and right hand a spoonful of freshly cooked rice near his mouth and smiling naturally toward the woman beside him.\n\nAn older Southeast Asian woman MUM2 sits beside him on the right side of the frame, wearing a white vintage motorcycle helmet with green stripes, a bright green long-sleeve jacket, a colorful patterned blouse, a checked woven towel over one shoulder, and traditional patterned trousers. She is smiling warmly toward the man son while holding a LuemHung on her right hand, and left hand a spoonful of rice near her mouth, creating a relaxed, friendly shared meal moment.\nBoth characters are holding the product LuemHung and eating rice together and looking at each other naturally. Their body language should feel spontaneous, intimate, warm and authentic, like a real family or rural community moment rather than a staged advertisement.\n\n\nForeground: a large woven bamboo serving tray filled with freshly prepared traditional dishes, cooked vegetables, grilled food, bowls and condiments sits between the camera and the characters. NO RICE on the tray. Add a rustic woven basket containing fresh produce on the far right. Natural bamboo texture and weathered wood are clearly visible. leave an empty space on the frame right. \n\nEnvironment: rustic bamboo farming shelter and platform, tropical vegetation and palm trees, warm countryside atmosphere. Traditional bamboo structures and rural objects frame the scene naturally. Include subtle cooking equipment and woven baskets around the edges of the frame.\n\nComposition: wide environmental lifestyle shot. The male farmer son occupies the left-middle area, the woman MUM2 occupies the center-right, and the product occupies the lower-right foreground. The food tray creates a strong foreground layer. Keep all major elements visually separated and readable. Use layered foreground, middle ground and background depth.\n\nVisual style: a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, give head room, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.",
+        "name": "Text Node 33"
+      },
+      "width": 806,
+      "height": 960,
+      "style": {
+        "width": 806,
+        "height": 960
+      }
+    },
+    {
+      "id": "imageGenerator-ZZspBbxSbBRJppcEQaYhE",
+      "type": "imageGenerator",
+      "position": {
+        "x": 19683.089869873867,
+        "y": 2705.976588815245
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 33",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:37:55.137Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:46:00.085Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:48:54.099Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:52:39.523Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T09:55:28.640Z",
+            "runIndex": 4
+          }
+        ],
+        "activeRunIndex": 4,
+        "mediaWidth": 608,
+        "mediaHeight": 1088
+      },
+      "width": 320,
+      "height": 658,
+      "style": {
+        "width": 320,
+        "height": 658
+      }
+    },
+    {
+      "id": "imageUpload--olhMsQTOqeGsc77ZpJdK",
+      "type": "imageUpload",
+      "position": {
+        "x": 18379.52265484243,
+        "y": 3656.1348067226886
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "LuemHung 1kg MockUp.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 2509,
+        "mediaHeight": 1996,
+        "mediaUrl": "{{user-upload}}",
+        "name": "LM1kg"
+      },
+      "width": 320,
+      "height": 342,
+      "style": {
+        "width": 320,
+        "height": 342
+      }
+    },
+    {
+      "id": "textNode-hGhgGt6rAhykekBkT_duY",
+      "type": "textNode",
+      "position": {
+        "x": 7503.189526368409,
+        "y": 4625.781677281404
+      },
+      "data": {
+        "text": "For the text on the carboard, change 'คิดถึง, รีบกลับมา ' to 'ผักต้ม', 'ไข่ต้ม' and add 'อกไก่' on the line below. In same text font ",
+        "name": "Text Node 34"
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageUpload-rJS7GwawldKy0JVfYdXWB",
+      "type": "imageUpload",
+      "position": {
+        "x": 7500.906778671858,
+        "y": 3942.158607738025
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "e5394ce8-149e-4b42-8565-80c335adef5e.jpg",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 768,
+        "mediaHeight": 1376,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 13"
+      },
+      "width": 320,
+      "height": 631,
+      "style": {
+        "width": 320,
+        "height": 631
+      }
+    },
+    {
+      "id": "imageGenerator-2pluwJ6GqSrdJ9iZKdkdo",
+      "type": "imageGenerator",
+      "position": {
+        "x": 8057.125506568928,
+        "y": 4127.666539414606
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 34",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-23T07:44:23.229Z",
+            "runIndex": 0
+          }
+        ],
+        "activeRunIndex": 0,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "imageUpload-gEOF2LhWbgmBpVO533E5m",
+      "type": "imageUpload",
+      "position": {
+        "x": 2981.649585260605,
+        "y": 5110.8269503566
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "{{user-upload}}",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 14"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "videoGenerator-ztbYay5SDl8FN7N8RGnSm",
+      "type": "videoGenerator",
+      "position": {
+        "x": 3481.9170158273146,
+        "y": 5082.828245555148
+      },
+      "data": {
+        "model": "seedance-2.0-i2v",
+        "status": "completed",
+        "resultVideo": "",
+        "errorMessage": null,
+        "duration": "9",
+        "aspectRatio": "9:16",
+        "resolution": "720p",
+        "prompt": "Use the uploaded image as the **exact visual reference for the characters, purple bag, environment, composition, and overall look**.\n\nCreate a **single continuous shot with no cuts**. In an extremely hot rice-field farmland in Thailand, the shirtless man suddenly **snatches the large purple bag aggressively from the woman’s hands**. He looks **furiously angry and highly impatient**, with exaggerated facial expressions, bulging eyes, intense eyebrows, and dramatic body movements.\n\nImmediately after grabbing the bag, he **throws it open and frantically searches through it**, rapidly digging through the contents in an exaggerated, chaotic way. His hands move extremely fast as he violently tosses things around inside the bag, repeatedly looking down.  DO NOT SHOW THE CONTENT THINGS INSIDE THE BAG. \n\nThe woman reacts with **shock, confusion, and nervousness**, stepping back slightly while watching him. She remains beside him throughout the action.\n\nThe the camera rotate to a Over-the-shoulder medium shot from behind the woman, while the Thai man throws away the bag with anger. The shirtless Thai man in the straw hat pointing aggressively at the helmeted person, shouting furiously with realistic lip-sync matching the Thai spoken line \"เดี๋ยว! ข้าวอยู่ไหนน่ะ?!\" (Wait! Where is the rice?!). Include intense facial strain, flared nostrils, chest heave, subtle handheld camera shake, sweat glistened skin, and light wind rustling the rice paddy fields in the background. Cinematic, dynamic lighting, high depth of field, photorealistic.\n\nStyle: **extremely exaggerated Thai TV comedy commercial**, over-the-top acting, exaggerated anger, theatrical physical comedy, dramatic facial expressions, ridiculous intensity, fast comedic movements, slightly absurd timing, energetic performance. \n\nEnvironment: **scorching hot tropical rice-field farmland**, harsh blazing sunlight, visible heat haze, sweaty skin, humid atmosphere, bright midday sun, palm trees and mountains in the background. Emphasize that the characters are **suffering from extreme heat**.\n\nCamera: start from steady handheld commercial camera, then slowly follow his frantic hands and exaggerated facial expressions.
