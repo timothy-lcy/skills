@@ -1,0 +1,387 @@
+"",
+            "timestamp": "2026-09-16T08:04:18.188Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:06:33.866Z",
+            "runIndex": 4
+          }
+        ],
+        "activeRunIndex": 4,
+        "mediaWidth": 940,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 655,
+      "style": {
+        "width": 320,
+        "height": 655
+      }
+    },
+    {
+      "id": "imageUpload-QWkeLgkr_xcHc9EmkLxUx",
+      "type": "imageUpload",
+      "position": {
+        "x": 9137.878499093913,
+        "y": 1858.5983693001365
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "{{user-upload}}",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 4"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "imageUpload-4BvFZUtNIn5kIrKbe0JDA",
+      "type": "imageUpload",
+      "position": {
+        "x": 13165.783001551066,
+        "y": -111.05940701589387
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "MUM_1.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "name": "mum",
+        "mediaWidth": 1448,
+        "mediaHeight": 1086
+      },
+      "width": 320,
+      "height": 329,
+      "style": {
+        "width": 320,
+        "height": 329
+      }
+    },
+    {
+      "id": "imageUpload-b9DgT4JoyVjueDx64yEbz",
+      "type": "imageUpload",
+      "position": {
+        "x": 9548.095042169973,
+        "y": 1661.732618393892
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-16 at 4.15.45 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 3242,
+        "mediaHeight": 2108,
+        "mediaUrl": "{{user-upload}}",
+        "name": "MV"
+      },
+      "width": 320,
+      "height": 300,
+      "style": {
+        "width": 320,
+        "height": 300
+      }
+    },
+    {
+      "id": "imageGenerator-LWfyDUwIAroqVGh6TH6PM",
+      "type": "imageGenerator",
+      "position": {
+        "x": 9770.972238764189,
+        "y": 2206.0610735366135
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 12",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:27:56.751Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:31:49.054Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "textNode-rN71z59C_P71zltBQDBb5",
+      "type": "textNode",
+      "position": {
+        "x": 8459.781158886766,
+        "y": 1506.3820963758901
+      },
+      "data": {
+        "text": "A realistic wide-shot of the son farmson talking to the mum in a rice field. The mun is handling the pink food warmer bag to the son while the son grabs the pink bag and open it impatiently. (refernce to the framing in MV.) The son is angry，and the mum is worried. Remove the pink bag on the back of the mum.\n\nThey are standing on the dirt road in a rice field. Background reference to the realistic pictures of rice field in rice field2 and rice field1.\n\nMatch the visual style of the reference images rice field1, 021 and 022: natural summer lifestyle photography, warm nostalgic cinematic mood, bright sunlit outdoor atmosphere, soft golden sunlight, gentle directional sunlight with subtle highlights and natural soft shadows, slightly hazy summer air, warm skin tones, rich fresh grass greens, soft sky blue, warm beige and earthy tones, balanced natural colors, slightly muted but vibrant color palette, soft film-like high contrast, subtle analog film grain, delicate highlight roll-off, slightly lifted shadows, realistic skin texture, natural imperfections, soft depth of field, gentle atmospheric haze, dreamy yet realistic, youthful and carefree summer feeling, candid editorial photography, premium commercial campaign aesthetic, authentic Hong Kong/Asian lifestyle photography. Avoid harsh HDR, overly saturated colors, deep crushed blacks, artificial studio lighting, cold tones, excessive sharpness, plastic skin, heavy color grading, or dramatic cinematic darkness. Full-frame 50mm prime lens, f/3.2–f/4, environmental lifestyle photography, subject in crisp focus, moderate depth of field, foreground grass softly out of focus, background landscape gently blurred but still recognizable, natural perspective and subtle background compression.",
+        "name": "Text Node 12",
+        "errorMessage": null
+      },
+      "width": 593,
+      "height": 622,
+      "style": {
+        "width": 593,
+        "height": 622
+      }
+    },
+    {
+      "id": "imageUpload-B4eFP91MJqVevRSVKLGyL",
+      "type": "imageUpload",
+      "position": {
+        "x": 9745.675203367697,
+        "y": 1043.4611332021043
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "{{user-upload}}",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image23"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "textNode-SA616vggbgu6XTfrtFg9_",
+      "type": "textNode",
+      "position": {
+        "x": 11706.312105303974,
+        "y": 7.202562999834463
+      },
+      "data": {
+        "text": "Based on Image 17, generate an over-the-shoulder shot, from the shoulder of the mum to see the farmson. (reference to the framing in MV2.) They are standing in the same place dirt road in a farm land in Image 17. He is angry and talking to the mum.\n\n\n\nMatch the visual style of the reference images 021, 022: natural summer lifestyle photography, warm nostalgic cinematic mood, bright sunlit outdoor atmosphere, soft golden sunlight, gentle directional sunlight with subtle highlights and natural soft shadows, slightly hazy summer air, warm skin tones, rich fresh grass greens, soft sky blue, warm beige and earthy tones, balanced natural colors, slightly muted but vibrant color palette, soft film-like high contrast, subtle analog film grain, delicate highlight roll-off, slightly lifted shadows, realistic skin texture, natural imperfections, soft depth of field, gentle atmospheric haze, dreamy yet realistic, youthful and carefree summer feeling, candid editorial photography, premium commercial campaign aesthetic, authentic Hong Kong/Asian lifestyle photography. Avoid harsh HDR, overly saturated colors, deep crushed blacks, artificial studio lighting, cold tones, excessive sharpness, plastic skin, heavy color grading, or dramatic cinematic darkness. Full-frame 50mm prime lens, f/3.2–f/4, environmental lifestyle photography, subject in crisp focus, moderate depth of field, foreground grass softly out of focus, background landscape gently blurred but still recognizable, natural perspective and subtle background compression.",
+        "name": "Text Node 13",
+        "errorMessage": null
+      },
+      "width": 714,
+      "height": 644,
+      "style": {
+        "width": 714,
+        "height": 644
+      }
+    },
+    {
+      "id": "imageGenerator-P0Ei42hz9XW4490dl1yTP",
+      "type": "imageGenerator",
+      "position": {
+        "x": 10170.449069403148,
+        "y": 312.3433165409808
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image 13",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:36:27.170Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:56:33.768Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "imageUpload-FtbTBZmOYQUDvXIAGZaH7",
+      "type": "imageUpload",
+      "position": {
+        "x": 3418.10324315194,
+        "y": 4009.204568518237
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "S5_3_923.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 941,
+        "mediaHeight": 1672,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image442"
+      },
+      "width": 320,
+      "height": 626,
+      "style": {
+        "width": 320,
+        "height": 626
+      }
+    },
+    {
+      "id": "textNode-2Fy5hERlc5A3s8cgfzJDy",
+      "type": "textNode",
+      "position": {
+        "x": 4243.0308226028765,
+        "y": 3609.060740617991
+      },
+      "data": {
+        "text": "a realistic photo of a man farmson looking at a card in a rice farm land. Image14, change his facial expression to a serious face staring at the card. Put his right hand down (the hand is not holding a card) \n\nKeep other things the same, keep the same visual style. Keep the color tone. Keep the details. Remove AI-noise and AI-artifacts. ",
+        "name": "Text Node 14",
+        "errorMessage": null
+      },
+      "width": 320,
+      "height": 240,
+      "style": {
+        "width": 320,
+        "height": 240
+      }
+    },
+    {
+      "id": "imageGenerator-SrCUFXNSzx8XMKvq8YkUP",
+      "type": "imageGenerator",
+      "position": {
+        "x": 4224.50465602493,
+        "y": 3914.328329976169
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image14",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:47:06.519Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:52:22.098Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T08:56:09.513Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:01:23.517Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "imageGenerator-Yo2VOZBdlukcnKb1g4524",
+      "type": "imageGenerator",
+      "position": {
+        "x": 4781.119127069576,
+        "y": 3743.3458448713295
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 15",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_16_9",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:05:04.768Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-16T09:08:55.616Z",
+            "runIndex": 1
+          }
+        ],
+        "activeRunIndex": 1,
+        "mediaWidth": 941,
+        "mediaHeight": 1672
+      },
+      "width": 320,
+      "height": 654,
+      "style": {
+        "width": 320,
+        "height": 654
+      }
+    },
+    {
+      "id": "textNode-qBtL-xP6d5Lt6iGucvzcc",
+      "type": "textNode",
+      "position": {
+        "x": 5253.090818291607,
+        "y": 4225.055380706059
+      },
+      "data": {
+        "text": "A realistic studio professional photo of a point-of-view (POV) of the man looking at the card in his hand. The card is in long shape (reference the card size in Image9). The POV image's background should show the grasses and dirt ground . Don't show the hat and legs. \n\nThe content on the card reference to the TG1. Change the text \"GOOD NEWS YOU'VE WON THE GRAND PRIZE STOP\" to items 'Boiled vegetables, Boiled eggs, Chicken breast...' in same font style. \n\nMatch the visual style of the reference images rice field1, 021: natural summer lifestyle photography, warm nostalgic cinematic mood, bright sunlit outdoor atmosphere, soft golden sunlight, gentle directional sunlight with subtle highlights and natural soft shadows, slightly hazy summer air, warm skin tones, rich fresh grass greens, soft sky blue, warm beige and earthy tones, balanced natural colors, slightly muted but vibrant color palette, soft film-like high contrast, subtle analog film grain, delicate highlight roll-off, slightly lifted shadows, realistic skin texture, natural imperfections, soft depth of field, gentle atmospheric haze, dreamy yet realistic, youthful and carefree summer feeling, candid editorial photography, premium commercial campaign aesthetic, authen
