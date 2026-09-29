@@ -1,0 +1,417 @@
+orative traditional-inspired graphics and Thai-style typography follow product1. The product1 actual size is as small as a hand palm. (reference the size of the package in Size1)\n\nThe product package is the exact same physical package shown in product1. It must remain visually identical to the reference despite being placed into the new environment. Match the original packaging artwork, typography, colors, proportions and structure as closely as possible. Only change its photographic environment, lighting, perspective, and interaction with the character — never the product design itself.\n\nVisual style: a naturalistic French New Wave film aesthetic inspired by the intimate, observational cinema of Eric Rohmer. Bright natural daylight, soft summer sunlight, realistic outdoor locations, understated cinematic composition, candid everyday moments, relaxed and spontaneous body language, characters naturally integrated into their environment. Warm but restrained color palette with soft greens, pale blues, creamy whites and subtle earthy tones. Natural skin tones, gentle sunlight on faces, soft shadows, slightly lifted blacks and delicate film grain. Shot on 35mm film with a 50mm or 65mm lens, medium depth of field around f/3.5–f/5.6, realistic perspective, moderate subject-background separation, background remaining recognizable rather than heavily blurred. Slightly imperfect analog texture, soft highlight roll-off, natural exposure, subtle lens softness and authentic film color rendition. The image should feel observed rather than staged — quiet, spontaneous, intimate, youthful, conversational and effortlessly elegant. Avoid glossy commercial photography, dramatic lighting, heavy color grading, excessive contrast, artificial bokeh, HDR, extreme sharpness, overly polished skin, or contemporary fashion-editorial styling.\n\nAvoid: studio lighting, artificial beauty retouching, plastic skin, extreme HDR, excessive sharpness, extreme bokeh, oversaturated colors, heavy orange-and-teal grading, dramatic Hollywood lighting, perfect symmetry, artificial-looking steam, CGI appearance.\n",
+        "name": "Text Node 19"
+      },
+      "width": 670,
+      "height": 849,
+      "style": {
+        "width": 670,
+        "height": 849
+      }
+    },
+    {
+      "id": "imageGenerator-gFcDjM7jgbALWpbxcmy88",
+      "type": "imageGenerator",
+      "position": {
+        "x": 15518.638024054468,
+        "y": -476.08632701392327
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image 220",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "landscape_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:37:57.759Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:40:17.672Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:42:05.303Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:44:26.253Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:46:47.071Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:48:26.965Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:53:41.859Z",
+            "runIndex": 6
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T03:56:00.312Z",
+            "runIndex": 7
+          }
+        ],
+        "activeRunIndex": 7,
+        "mediaWidth": 1168,
+        "mediaHeight": 880
+      },
+      "width": 540,
+      "height": 523,
+      "style": {
+        "width": 540,
+        "height": 523
+      }
+    },
+    {
+      "id": "imageUpload-YOZ-toi08TZAOOJPSLTqi",
+      "type": "imageUpload",
+      "position": {
+        "x": 14703.840801560134,
+        "y": -1005.2188000272712
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 11.26.20 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 900,
+        "mediaHeight": 512,
+        "mediaUrl": "{{user-upload}}",
+        "name": "thaihouse1"
+      },
+      "width": 320,
+      "height": 276,
+      "style": {
+        "width": 320,
+        "height": 276
+      }
+    },
+    {
+      "id": "imageUpload-Cl9xsjzDuP_vLX_qt9kn-",
+      "type": "imageUpload",
+      "position": {
+        "x": 15072.332089393047,
+        "y": -978.1672013189317
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 11.25.37 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1280,
+        "mediaHeight": 760,
+        "mediaUrl": "{{user-upload}}",
+        "name": "thaihouse2"
+      },
+      "width": 320,
+      "height": 283,
+      "style": {
+        "width": 320,
+        "height": 283
+      }
+    },
+    {
+      "id": "imageUpload-T4r-E_4iMJL2vcI4qoANI",
+      "type": "imageUpload",
+      "position": {
+        "x": 14694.62232866671,
+        "y": -664.2460568868797
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 11.30.28 AM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1378,
+        "mediaHeight": 1506,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image Upload 7"
+      },
+      "width": 320,
+      "height": 428,
+      "style": {
+        "width": 320,
+        "height": 428
+      }
+    },
+    {
+      "id": "textNode-gvyT4cZSYRVIZGbizUFUN",
+      "type": "textNode",
+      "position": {
+        "x": 15557.965943351348,
+        "y": -1196.1213364352407
+      },
+      "data": {
+        "text": "Image 220 make the red product package size smaller, the package size is small as a palm, reference to the size in Size1. Show the package mouth slightly open like that in Image221.  \n\nChange the outfit of the woman in Image 220 to be the outfit in MUM2.\n\nFor the output, remove all AI-noise, AI-artifacts.",
+        "name": "Text Node 20"
+      },
+      "width": 512,
+      "height": 519,
+      "style": {
+        "width": 512,
+        "height": 519
+      }
+    },
+    {
+      "id": "imageGenerator-8jQ28oy0Eo1XdxCpbnwTY",
+      "type": "imageGenerator",
+      "position": {
+        "x": 16594.14752254058,
+        "y": -532.7777367863332
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 21",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "landscape_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T04:03:47.571Z",
+            "runIndex": 0
+          }
+        ],
+        "activeRunIndex": 0,
+        "mediaWidth": 1168,
+        "mediaHeight": 880
+      },
+      "width": 320,
+      "height": 357,
+      "style": {
+        "width": 320,
+        "height": 357
+      }
+    },
+    {
+      "id": "imageUpload-lsOKhbSBD4KsrZx2FevKV",
+      "type": "imageUpload",
+      "position": {
+        "x": 17394.365624316462,
+        "y": 700.2616117648099
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Mum-cooking.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 1168,
+        "mediaHeight": 880,
+        "mediaUrl": "{{user-upload}}",
+        "name": "MUM2"
+      },
+      "width": 320,
+      "height": 329,
+      "style": {
+        "width": 320,
+        "height": 329
+      }
+    },
+    {
+      "id": "imageUpload-nvd6LeRA_lqer3_lpVJqT",
+      "type": "imageUpload",
+      "position": {
+        "x": 16252.333888823263,
+        "y": -1084.8626868684905
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Screenshot 2026-09-17 at 12.01.14 PM.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 402,
+        "mediaHeight": 64,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image221"
+      },
+      "width": 320,
+      "height": 222,
+      "style": {
+        "width": 320,
+        "height": 222
+      }
+    },
+    {
+      "id": "imageUpload-a2Hz2QzIfBOhDyFJXIPTZ",
+      "type": "imageUpload",
+      "position": {
+        "x": 17162.31332537564,
+        "y": -1045.6750554440534
+      },
+      "data": {
+        "imageUrl": "{{user-upload}}",
+        "filename": "Untitled-2-02.png",
+        "uploadStatus": "completed",
+        "errorMessage": null,
+        "mediaWidth": 239,
+        "mediaHeight": 239,
+        "mediaUrl": "{{user-upload}}",
+        "name": "Image501"
+      },
+      "width": 320,
+      "height": 401,
+      "style": {
+        "width": 320,
+        "height": 401
+      }
+    },
+    {
+      "id": "imageGenerator-XB3WT2ZtqM2iISxbWUfAk",
+      "type": "imageGenerator",
+      "position": {
+        "x": 17415.750942790295,
+        "y": 251.81667902694437
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "product3",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "square_hd",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T04:09:59.683Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T04:12:49.255Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T04:16:22.412Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T04:21:28.436Z",
+            "runIndex": 3
+          }
+        ],
+        "activeRunIndex": 3,
+        "mediaWidth": 1024,
+        "mediaHeight": 1024
+      },
+      "width": 320,
+      "height": 429,
+      "style": {
+        "width": 320,
+        "height": 429
+      }
+    },
+    {
+      "id": "textNode-iDwcL9min80SHJ_GU2G4b",
+      "type": "textNode",
+      "position": {
+        "x": 17361.527753159804,
+        "y": -1691.523457852431
+      },
+      "data": {
+        "text": "Revise the size of the package in Image501, \n\nPRODUCT REFERENCE — STRICTLY PRESERVE: Use the uploaded product image ProductImage as the exact product reference. Reproduce the same Luemtung rice package exactly as shown in the reference image. Do not redesign, reinterpret, simplify, restyle, or replace the packaging. Preserve the exact package shape, proportions, red and cream color scheme, gold decorative borders, Thai typography, logo, illustrations, layout, labels, graphics, transparent rice window, seals, and all visible printed details. Keep the product identity and packaging artwork unchanged. Do not invent new branding, text, graphics, colors, or packaging elements. The final image must clearly show the same physical product/package from the reference, photographed realistically in the new scene.\nProduct fidelity has the highest priority. Treat the uploaded product image as a locked reference asset, not inspiration. Keep the package front-facing and fully recognizable. Maintain the original proportions and graphic placement. Any visible text should remain consistent with the reference ProductImage and should not be replaced with fictional text. Do not modify the logo or brand name. Do not change the package from a red bag to another material, shape, color, or design. Keep the product mouth open like the product package mouth in Image501. \n\nsame color tone in Image501\n\nFor the output, remove all AI-noise, AI-artifacts.\n",
+        "name": "Text Node 21",
+        "errorMessage": null
+      },
+      "width": 560,
+      "height": 602,
+      "style": {
+        "width": 560,
+        "height": 602
+      }
+    },
+    {
+      "id": "imageGenerator-B5pcWDgu98rgzglvHyVU2",
+      "type": "imageGenerator",
+      "position": {
+        "x": 19201.8908320271,
+        "y": -1329.6370013890778
+      },
+      "data": {
+        "model": "gpt-image",
+        "status": "completed",
+        "resultImage": "",
+        "errorMessage": null,
+        "name": "Image Generator 23",
+        "resolution": "",
+        "aspectRatio": "",
+        "quality": "high",
+        "imageSize": "portrait_4_3",
+        "results": [
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T04:28:55.102Z",
+            "runIndex": 0
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:05:26.738Z",
+            "runIndex": 1
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T06:13:16.593Z",
+            "runIndex": 2
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:08:17.406Z",
+            "runIndex": 3
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:11:55.331Z",
+            "runIndex": 4
+          },
+          {
+            "url": "",
+            "text": "",
+            "timestamp": "2026-09-17T07:14:12.616Z",
+            "runIndex": 5
+          },
+          {
+            "url": "",
+            "text": "",
+            "t
